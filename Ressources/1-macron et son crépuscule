@@ -1,0 +1,665 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="fr-FR">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="fr-FR">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang="fr-FR">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<title>Les carnets de Juan Branco | Juan Branco est conseiller juridique de Wikileaks et docteur de l&#039;École normale supérieure</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://branco.blog.lemonde.fr/xmlrpc.php">
+	<!--[if lt IE 9]>
+	<script src="http://branco.blog.lemonde.fr/wp-content/themes/twentythirteen/js/html5.js"></script>
+	<![endif]-->
+	<link rel='dns-prefetch' href='//s1.lemde.fr' />
+<link rel='dns-prefetch' href='//branco.blog.lemonde.fr' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Les carnets de Juan Branco &raquo; Flux" href="http://branco.blog.lemonde.fr/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Les carnets de Juan Branco &raquo; Flux des commentaires" href="http://branco.blog.lemonde.fr/comments/feed/" />
+
+<!-- This site uses the Google Analytics by MonsterInsights plugin v 6.2.6 - https://www.monsterinsights.com/ -->
+<!-- Normally you will find the Google Analytics tracking code here, but the webmaster disabled your user group. -->
+<!-- / Google Analytics by MonsterInsights -->
+
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/branco.blog.lemonde.fr\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.1"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='twentythirteen-fonts-css'  href='https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A300%2C400%2C700%2C300italic%2C400italic%2C700italic%7CBitter%3A400%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://branco.blog.lemonde.fr/wp-content/themes/twentythirteen/genericons/genericons.css?ver=3.03' type='text/css' media='all' />
+<link rel='stylesheet' id='twentythirteen-style-css'  href='http://branco.blog.lemonde.fr/wp-content/themes/twentythirteen/style.css?ver=2013-07-18' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentythirteen-ie-css'  href='http://branco.blog.lemonde.fr/wp-content/themes/twentythirteen/css/ie.css?ver=2013-07-18' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='https://s1.lemde.fr/conf.js?ver=4.9.1'></script>
+<script type='text/javascript' src='http://branco.blog.lemonde.fr/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://branco.blog.lemonde.fr/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://branco.blog.lemonde.fr/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://branco.blog.lemonde.fr/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://branco.blog.lemonde.fr/wp-includes/wlwmanifest.xml" /> 
+
+<meta property="og:type" content="blog"/><meta property="og:site_name" content="Les carnets de Juan Branco"/><meta property="og:url" content="http://branco.blog.lemonde.fr"/><meta property="og:title" content="Les carnets de Juan Branco"/><meta property="og:description" content="Juan Branco est conseiller juridique de Wikileaks et docteur de l&#039;École normale supérieure"/><script>
+   (function($){
+      var header = '<div class="header_lemonde"> \
+   <ul class="gauche"> \
+      <li class="logo_lemonde"><a href="http://www.lemonde.fr/">le monde.fr</a></li> \
+      <li class="abo">| Blog abonné \
+         <span class="bulle"> \
+            <span><br />Plus de 6 000 personnes ont choisi <strong>Le Monde.fr</strong> pour publier leur blog : <a href="http://www.lemonde.fr/blogs/">découvrez-les.</a></span> \
+            <span> \
+               Ces blogs sont réservés aux abonnés du <br /><strong>Monde.fr</strong> : vous aussi, créez votre blog ! \
+               <a href="http://www.lemonde.fr/abo/?clef=BTN_ABOGOLD14" class="bt_push_abo">Pour créer votre blog<br />Abonnez-vous à partir de 1 €</a> \
+            </span> \
+         </span> \
+      </li> \
+   </ul> \
+   <ul class="droit"> \
+      <li class="acces"><a href="http://www.lemonde.fr/blogs/">Accédez à tous les blogs</a></li> \
+      <li class="crea"><a href="http://www.lemonde.fr/abo/?clef=BTN_ABOGOLD14">Créez votre blog</a></li> \
+   </ul> \
+   </div>';
+      $(document).ready(function($){
+         $('body').prepend(header);
+      });
+   })(jQuery);
+</script><meta name="google-site-verification" content="_p8A1elPZf5UYFiH-1hM9fHbUBewLpjFRFmhCi24Ggk" /><!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MS62MT');</script>
+<!-- End Google Tag Manager -->
+
+<script type='text/javascript'>
+var lmd = lmd || {};
+lmd.context = lmd.context || {};
+lmd.context.application = "blog";
+lmd.context.pageType = "Index";
+lmd.context.blogType = "Abonné";
+</script><script>
+  var backupRequire;
+  var backupDefine;
+  if (typeof require !== 'undefined') {
+    backupRequire = require;
+  }
+  if (typeof define !== 'undefined') {
+    backupDefine = define;
+  }
+  require = null;
+  define = null;
+</script>
+<script src="https://tag.audience.acpm.fr/js/on-1.0.min.js" type="application/javascript"></script>
+<script>
+  require = backupRequire;
+  define = backupDefine;
+</script>
+	<style type="text/css" id="twentythirteen-header-css">
+			.site-title,
+		.site-description {
+			color: #210013;
+		}
+		</style>
+	<link rel="icon" href="http://branco.blog.lemonde.fr/files/2016/09/cropped-cropped-Capture-d’écran-2015-11-06-à-22.04.13-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://branco.blog.lemonde.fr/files/2016/09/cropped-cropped-Capture-d’écran-2015-11-06-à-22.04.13-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://branco.blog.lemonde.fr/files/2016/09/cropped-cropped-Capture-d’écran-2015-11-06-à-22.04.13-180x180.png" />
+<meta name="msapplication-TileImage" content="http://branco.blog.lemonde.fr/files/2016/09/cropped-cropped-Capture-d’écran-2015-11-06-à-22.04.13-270x270.png" />
+</head>
+
+<body class="home blog single-author">
+	<div id="page" class="hfeed site">
+		<header id="masthead" class="site-header" role="banner">
+			<a class="home-link" href="http://branco.blog.lemonde.fr/" title="Les carnets de Juan Branco" rel="home">
+				<h1 class="site-title">Les carnets de Juan Branco</h1>
+				<h2 class="site-description">Juan Branco est conseiller juridique de Wikileaks et docteur de l&#039;École normale supérieure</h2>
+			</a>
+
+			<div id="navbar" class="navbar">
+				<nav id="site-navigation" class="navigation main-navigation" role="navigation">
+					<button class="menu-toggle">Menu</button>
+					<a class="screen-reader-text skip-link" href="#content" title="Aller au contenu principal">Aller au contenu principal</a>
+					<div class="menu-1-container"><ul id="primary-menu" class="nav-menu"><li id="menu-item-219" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-219"><a href="http://branco.blog.lemonde.fr">Accueil</a></li>
+<li id="menu-item-220" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-220"><a href="http://branco.blog.lemonde.fr/juan_branco/">À propos de… Juan Branco</a></li>
+<li id="menu-item-222" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-222"><a href="http://yale.academia.edu/JuanBranco">Textes Publiés</a></li>
+<li id="menu-item-221" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-221"><a href="http://twitter.com/anatolium">Twitter</a></li>
+</ul></div>					<form role="search" method="get" class="search-form" action="http://branco.blog.lemonde.fr/">
+				<label>
+					<span class="screen-reader-text">Rechercher :</span>
+					<input type="search" class="search-field" placeholder="Recherche&hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Rechercher" />
+			</form>				</nav><!-- #site-navigation -->
+			</div><!-- #navbar -->
+		</header><!-- #masthead -->
+
+		<div id="main" class="site-main">
+
+	<div id="primary" class="content-area">
+		<div id="content" class="site-content" role="main">
+		
+										
+<article id="post-374" class="post-374 post type-post status-publish format-standard hentry category-non-classe">
+	<header class="entry-header">
+		
+				<h1 class="entry-title">
+			<a href="http://branco.blog.lemonde.fr/2019/01/02/macron-et-son-crepuscule/" rel="bookmark">Macron et son crépuscule</a>
+		</h1>
+		
+		<div class="entry-meta">
+			<span class="date"><a href="http://branco.blog.lemonde.fr/2019/01/02/macron-et-son-crepuscule/" title="Permalien vers Macron et son crépuscule" rel="bookmark"><time class="entry-date" datetime="2019-01-02T07:41:31+00:00">02 janvier 2019</time></a></span><span class="categories-links"><a href="http://branco.blog.lemonde.fr/category/non-classe/" rel="category tag">Non classé</a></span><span class="author vcard"><a class="url fn n" href="http://branco.blog.lemonde.fr/author/branco/" title="Afficher tous les articles par brancojuan" rel="author">brancojuan</a></span>					</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<p>Enquête au long cours.</p>
+<p><a href="http://branco.blog.lemonde.fr/files/2019/01/Macron-et-son-Crepuscule.pdf">https://static.mediapart.fr/files/2018/12/26/macron-et-son-crepuscule-3.pdf</a></p>
+<p style="text-align: justify">PS: attention, du fait d&rsquo;un problème de CDN des serveurs du Monde, une version de travail persiste en bien des liens qui ont circulé, contenant des erreurs mineures. Seule cette version fait foi.</p>
+	</div><!-- .entry-content -->
+	
+	<footer class="entry-meta">
+					<div class="comments-link">
+				<a href="http://branco.blog.lemonde.fr/2019/01/02/macron-et-son-crepuscule/#comments">Afficher les 18 commentaires</a>			</div><!-- .comments-link -->
+		
+			</footer><!-- .entry-meta -->
+</article><!-- #post -->
+							
+<article id="post-403" class="post-403 post type-post status-publish format-standard hentry category-non-classe">
+	<header class="entry-header">
+		
+				<h1 class="entry-title">
+			<a href="http://branco.blog.lemonde.fr/2019/01/02/sur-un-parcours-personnel/" rel="bookmark">Sur un parcours personnel</a>
+		</h1>
+		
+		<div class="entry-meta">
+			<span class="date"><a href="http://branco.blog.lemonde.fr/2019/01/02/sur-un-parcours-personnel/" title="Permalien vers Sur un parcours personnel" rel="bookmark"><time class="entry-date" datetime="2019-01-02T07:08:04+00:00">02 janvier 2019</time></a></span><span class="categories-links"><a href="http://branco.blog.lemonde.fr/category/non-classe/" rel="category tag">Non classé</a></span><span class="author vcard"><a class="url fn n" href="http://branco.blog.lemonde.fr/author/branco/" title="Afficher tous les articles par brancojuan" rel="author">brancojuan</a></span>					</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<p>J&rsquo;ai reçu beaucoup de remarques m&rsquo;interrogeant, parfois m&rsquo;attaquant, sur un parcours personnel qui n&rsquo;aurait à aucun moment dû m&rsquo;amener à une quelconque identification avec les gilets jaunes.</p>
+<p>Qui devrait me tenir bien au chaud, avec les miens, comme ils ne cessent de me le réclamer, ironisant sur des <em>postures</em>, semblerait-il, visant à m&rsquo;écarter d&rsquo;eux.</p>
+<p>Or, je ne suis pas comme eux. Né ailleurs, de parents nés ailleurs, nés de familles modestes, ayant fui des dictatures pour se construire un destin, accueillis en France où ils se sont inscrits pour lutter d&rsquo;abord, pour survivre ensuite, ensuite pour se construire, enfin pour avancer dans la dignité.</p>
+<p>Des êtres, mes parents, qui n&rsquo;ont jamais accumulé. Qui ont vécu comme des princes après avoir vécu dans la peur des huissiers, et chaque vacance, nous ramenaient auprès des nôtres, en deux petits villages d&rsquo;Espagne et du Portugal, où l&rsquo;on avait à cacher nos cadeaux, à partager notre générosité sans créer d&rsquo;écart, à comprendre ce qu&rsquo;il en était de vivre dans une petite bourgade du fin fond de l&rsquo;Andalousie, de l&rsquo;Alentejo. A comprendre la modestie, la partager, s&rsquo;en imprégner. Combler les écarts, comprendre l&rsquo;écart, la précarité de la situation qui, une fois à notre retour en France, à Paris, nous accueillerait.</p>
+<p>Ce que cela signifiait d&rsquo;avoir grandi en des arrondissements qui, à notre naissance, restaient divers, et se sont peu à peu resserrés. En des petits appartements qui sont progressivement devenus plus grands, à mesure que les plus modestes en étaient écartés.</p>
+<p>Des lieux dont nous n&rsquo;avons jamais eu propriété.</p>
+<p>Je suis, comme tous, le fruit de mon parcours et d&rsquo;entrailles que je n&rsquo;ai pas décidées. Un être qui a dû, pour renoncer à la servitude à laquelle le système me demandait, au sein des grands cabinets, au Luxembourg où l&rsquo;on tentait de me pousser, revenir dormir chez ses parents, sur un canapé, des mois et des mois, rompu par la vie et une séparation avec une femme aimée, détruite par la précarité, les compromissions, l&rsquo;incapacité de se reconstruire un destin. Par la violence d&rsquo;une classe elle installée, ironisant à la possibilité d&rsquo;une difficulté, trop aveuglée par les ressemblances d&rsquo;apparence, la maîtrise d&rsquo;un phrasé, de références culturelles qui semblaient nous y relier.</p>
+<p>Non, nous restions étrangers. Etrangers à leur monde, étrangers à leurs conformités. En lutte, toujours, eux et nous, parents comme enfants, pour mériter son destin, construire notre parcours, rendre ce qui avait été donné. Nous qui avons refusé de nous installer et de nous conformer.</p>
+<p>Pour rester entiers.</p>
+	</div><!-- .entry-content -->
+	
+	<footer class="entry-meta">
+					<div class="comments-link">
+				<a href="http://branco.blog.lemonde.fr/2019/01/02/sur-un-parcours-personnel/#comments">Afficher les 6 commentaires</a>			</div><!-- .comments-link -->
+		
+			</footer><!-- .entry-meta -->
+</article><!-- #post -->
+							
+<article id="post-315" class="post-315 post type-post status-publish format-standard hentry category-non-classe">
+	<header class="entry-header">
+		
+				<h1 class="entry-title">
+			<a href="http://branco.blog.lemonde.fr/2018/09/25/du-monde-au-diplo-une-affaire-de-cinema/" rel="bookmark">Entre le Monde et le Diplo, deux fins du cinéma</a>
+		</h1>
+		
+		<div class="entry-meta">
+			<span class="date"><a href="http://branco.blog.lemonde.fr/2018/09/25/du-monde-au-diplo-une-affaire-de-cinema/" title="Permalien vers Entre le Monde et le Diplo, deux fins du cinéma" rel="bookmark"><time class="entry-date" datetime="2018-09-25T02:12:29+00:00">25 septembre 2018</time></a></span><span class="categories-links"><a href="http://branco.blog.lemonde.fr/category/non-classe/" rel="category tag">Non classé</a></span><span class="author vcard"><a class="url fn n" href="http://branco.blog.lemonde.fr/author/branco/" title="Afficher tous les articles par brancojuan" rel="author">brancojuan</a></span>					</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<p style="text-align: justify"><i>Chez Paul Virilio, en un <a href="https://www.monde-diplomatique.fr/2000/08/VIRILIO/1934">article</a> pour </i>Le Monde Diplomatique<i> où il tentait de penser l’effondrement de l’art plastique, alors que le cinéma encore, et l’audiovisuel plus encore, dominait, cette citation:</i></p>
+<p><i> « « </i>Le cinéma, c’est mettre un uniforme à l’œil<i> », confirmait Kafka. » etc.</i></p>
+<p style="text-align: justify"><i>Alors voilà: si, comme le prétend Paul Virilio, on ne porte plus nos corps (en art), c&rsquo;est que, depuis le cinéma, on les absorbe (par une intermédiation machiniste), et que dès lors le corps ne peut plus être abordé que dans sa négation ou la mise en scène de cette absorption, répétition de sa réalisation substituante à l&rsquo;acte initiatique devenu fantasmatique, pour nous en donner l’opportunité là, en cette société où ces absorptions machiniques sont appelées à rester, pour le commun, de l’ordre du fantasme, du fait des contraintes industrielles et techniques, capitalistiques en somme, qui empêchent toute possibilité d&rsquo;accession par le commun à cette interaction rêvée, forçant à revenir à la salle comme le bourgeois, faute de talent et non de moyens, était obligé d&rsquo;acheter à l&rsquo;atelier.</i></p>
+<p><em>Le capitalisme a commencé à faire obstacle au fantasme, requérant au spectateur de devenir consommateur, de se figer sur un écran sur lequel était projeté le dernier fantasme, la possibilité d&rsquo;être dévoré ou de dévorer un être réifié, rendu à sa plus superficielle beauté, projetée comme un canon pour dominer. Le cinéma, devenu roi des arts, a expulsé non seulement et d&rsquo;évidence ses concurrents immédiats qui maniaient le corps et requéraient durable attention &#8211; théâtre, danse, opéra &#8211; mais aussi et plus grave encore, les arts premiers, plastiques, expulsés de la fantasmatique de corps qui, prothèses déjà, ne pouvaient être fantasmés non plus par le truchement de l&rsquo;outil, mais bien par celui de la machine, et de la dévoration-régurgitation reproductive qui toute puissante par elle était proposée.</em></p>
+<p style="text-align: justify"><i>Dès lors cependant, lorsque les écrans et les machines se sont démultipliés </i>réellement<i>, dans le quotidien, miniaturisant l&rsquo;industrialité dans sa production après l&rsquo;avoir fait dans sa diffusion, le cinéma n&rsquo;a pu que perdre la force qui était la sienne, non seulement comme</i> medium <em>mais comme art, le rejetant hors des corps comme lui-même avait rejeté ses prédécesseurs de là</em><i> : il n’y a plus de fantasme à avoir à l’absorption (d’un corps sublime par une immense caméra-machine), absorption admirée dans une répétition projective (à travers l’écran vers lequel nous nous dirigeons dans une salle de cinéma comme la caméra se dirige vers le corps sublime, dans une tentative de </i>mimesis<i> et d’appropriation, à notre échelle, de ce mouvement) puisque tous pouvons maintenant en faire l’expérience à la télé et sur les ordinateurs, sur les téléphones portables mais surtout sur nous-mêmes et notre intimité, immergés dès lors dans une réalité virtuelle obnubilante qui fabrique elle-même ce qu&rsquo;était la machine et appelle à la naissance de la réalité virtuelle </i>en tant que technique &#8211;<i> après avoir amené à la renaissance de la 3D en tant qu’</i>illusion technique<i> permettant un temps de sauver l’apparence de supériorité du cinéma comme </i>medium<i> par un surcroit d&rsquo;industrialité (avant son effondrement) &#8211; afin de maintenir cet avantage compétitif, cette capacité à faire rêver, c’est-à-dire à (se) projeter, force d’un écran qui en fait, est appelé à ne plus être, et disparaîtra comme le théâtre et la danse, l’opéra, disparurent en tant que </i>media<i> dominants et prescripteurs, en tant que lieux de fantasmatique, au profit d’autres scènes et d’autres formes, d&rsquo;autres techniques de représentation, d&rsquo;abord industrialisées et massifiées puis maintenant miniaturisées et fragmentées, que l’on considérera, nous, soldats déjà d&rsquo;un autre temps, vulgarisées, mais qui détiendront peut-être en elles une magie supplémentaire comme le fit le cinéma, une </i>capacité à produire <em>que l&rsquo;on devine fruit </em><i>d&rsquo;une technologie encore plus poussée, encore plus satisfaisante et jouissante, propice à l’accouplement avec les déclenchements pulsionnels qui naturellement nous habitent, nous emportent, nous ravissent en une animalité chaque fois plus réappropriée, c’est-à-dire chaque fois moins sublimée, et qui dès lors éloignera ses consommateurs-acteurs non seulement de la masse, mais probablement de la société, de l&rsquo;idée de partage, et à terme, de la capacité à créer.</i></p>
+<p style="text-align: justify"><i>Dès lors, à ceux qui s&rsquo;attachent au cinéma, conscients de cet archaïsme qui à toute vitesse, par la technologie, lui vient, qu&rsquo;ils le fassent en tentant, non pas une fuite en avant industrialo-consumériste telle que décrite par un <a href="https://www.lemonde.fr/economie/article/2018/09/24/r-evolutions-a-venir-dans-les-salles-de-cinema_5359353_3234.html">article de </a></i><a href="https://www.lemonde.fr/economie/article/2018/09/24/r-evolutions-a-venir-dans-les-salles-de-cinema_5359353_3234.html">Le</a><i><a href="https://www.lemonde.fr/economie/article/2018/09/24/r-evolutions-a-venir-dans-les-salles-de-cinema_5359353_3234.html"> </a></i><a href="https://www.lemonde.fr/economie/article/2018/09/24/r-evolutions-a-venir-dans-les-salles-de-cinema_5359353_3234.html">Monde</a><i>, non pas donc en cherchant à peser sur une diffraction dont l’insaisissabilité n&rsquo;a pas à être normée, mais au contraire en  acceptant l&rsquo;inévitable défaite et en réinstallant dès lors la souveraineté du cinéma </i>à côté<i>, en une épure et une reconfiguration qui tranchera avec les conventions qui jusque là l&rsquo;inhibaient, en profitant de l&rsquo;effondrement de son monopole fantasmatique, de sa capacité à nous faire bander, pour lui autoriser un rapport au réel et à la véridicité différencié, c’est-à-dire se jouant des limites qu&rsquo;il s&rsquo;était lui-même imposé, des exigences que l’on imposait jusque là par exemple à une parole inhibée, ces effets de « crédibilité », ces refus des ruptures de temporalité et autres règles d&rsquo;airain qu&rsquo;il faudra redéployer jusqu’à l’excès, comme le fit le théâtre en son pire siècle, un XXe qui en vit, par nécessité, exploser toutes les règles, afin, rompant les carcans pour se réinventer &#8211; comme eut à le faire la peinture, évidée de toute corporalité &#8211; afin d&rsquo;enfin</i><i> rapprocher le cinéma de cette marginalité accessible et choquante, universelle, à laquelle maintenant il s&rsquo;agit maintenant de céder, afin de, dans son agonie en tant qu&rsquo;organe universel, produire peut-être des choses plus grandes que ce qui avait jusqu&rsquo;ici été envisagé. Un retour à la racine, éloigné de toute fuite en avant inscrite dans une technicité, pour, cette racine, l’épuiser et la déchiqueter.</i></p>
+<p>« Il faut baiser la pulsion d&rsquo;ordre », <em>disaient-ils. Voilà.</em></p>
+	</div><!-- .entry-content -->
+	
+	<footer class="entry-meta">
+					<div class="comments-link">
+				<a href="http://branco.blog.lemonde.fr/2018/09/25/du-monde-au-diplo-une-affaire-de-cinema/#comments">Un commentaire pour le moment</a>			</div><!-- .comments-link -->
+		
+			</footer><!-- .entry-meta -->
+</article><!-- #post -->
+							
+<article id="post-307" class="post-307 post type-post status-publish format-standard hentry category-non-classe">
+	<header class="entry-header">
+		
+				<h1 class="entry-title">
+			<a href="http://branco.blog.lemonde.fr/2018/09/05/hadopi-et-le-cinema-francais/" rel="bookmark">HADOPI et le cinéma français</a>
+		</h1>
+		
+		<div class="entry-meta">
+			<span class="date"><a href="http://branco.blog.lemonde.fr/2018/09/05/hadopi-et-le-cinema-francais/" title="Permalien vers HADOPI et le cinéma français" rel="bookmark"><time class="entry-date" datetime="2018-09-05T14:22:47+00:00">05 septembre 2018</time></a></span><span class="categories-links"><a href="http://branco.blog.lemonde.fr/category/non-classe/" rel="category tag">Non classé</a></span><span class="author vcard"><a class="url fn n" href="http://branco.blog.lemonde.fr/author/branco/" title="Afficher tous les articles par brancojuan" rel="author">brancojuan</a></span>					</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<p>Voici un schéma que j&rsquo;avais élaboré en janvier 2012, dans le cadre de la campagne présidentielle. Il s&rsquo;agissait alors de préparer la suppression d&rsquo;Hadopi et son remplacement par des dispositifs de licence globale publiques &#8211; équivalents à ceux qui s&rsquo;annonçaient et ont fini, faute d&rsquo;action de l&rsquo;Etat, par prendre la place avec des effets délétères pour la création, à commencer par Netflix.</p>
+<p><img class="alignnone size-full wp-image-312" src="http://branco.blog.lemonde.fr/files/2018/09/Capture-d’écran-2018-09-05-à-14.25.04.png" alt="" width="2825" height="1636" srcset="http://branco.blog.lemonde.fr/files/2018/09/Capture-d’écran-2018-09-05-à-14.25.04.png 2825w, http://branco.blog.lemonde.fr/files/2018/09/Capture-d’écran-2018-09-05-à-14.25.04-300x174.png 300w, http://branco.blog.lemonde.fr/files/2018/09/Capture-d’écran-2018-09-05-à-14.25.04-768x445.png 768w, http://branco.blog.lemonde.fr/files/2018/09/Capture-d’écran-2018-09-05-à-14.25.04-1024x593.png 1024w, http://branco.blog.lemonde.fr/files/2018/09/Capture-d’écran-2018-09-05-à-14.25.04-900x521.png 900w" sizes="(max-width: 2825px) 100vw, 2825px" /></p>
+<p>Le schéma visait à permettre à François Hollande et Aurélie Filippetti, dont je dirigeais l&rsquo;équipe, les spécificités du financement du cinéma français. La réforme, annoncée comme acceptée par François Hollande au Bis de Nantes qui annoncerait la suppression de l&rsquo;HADOPI, avait fait l&rsquo;objet de plus de deux cents rendez-vous avec l&rsquo;ensemble du secteur.</p>
+<p>J&rsquo;avais alors 22 ans et je devais, face aux atermoiements carrièristes de Filippetti, tenir bon face à Pascal Rogard, Nonce Paolini, Rémy Pfimlin, Bertrand Méheut, Rodolphe Belmer et bien d&rsquo;autres, les convaincre de l&rsquo;importance d&rsquo;une réforme, alors que se dessinait l&rsquo;effondrement de Canal + et de façon générale de l&rsquo;ensemble du système de l&rsquo;exception culturelle mis en oeuvre à partir des années quatre-vingt. Au haut des tours de Boulogne, il falalti sans trembler négocier des heures avec eux, alors que ma cheffe se tenait le plus souvent coite. Je découvrais alors la réalité du pouvoir que nous avions, la crainte réelle de ces « pontes » face à la représentation populaire, et à quel point le renoncement ne serait que le fruit d&rsquo;un choix.</p>
+<p>Cette réforme, je l&rsquo;avais appelée « acte 2 de l&rsquo;exception culturelle ». Elle serait dénaturée et écrasée par Pierre Lescure, ami du président et ancien PDG de Canal +, qui signerait ainsi la fin de son enfant.</p>
+<p>Lorsque François Hollande reculait sur la Hadopi et cette réforme, sur recommandation notamment de Constance Rivière, Aurélie Filippetti se voyait promettre la rue de Valois pour peu qu&rsquo;elle accepta de voir son ministère vidé de son contenu. Je remettais ma démission, qui était refusée. Le 6 mai 2012, comme attendu, j&rsquo;étais évincé. Il faudrait deux semaines à Aurélie Filippeti pour avoir le courage de me le dire, par message téléphonique. Rendant public ce renoncement, et acceptant que ce faisant, je renonçais de facto à toute participation politique à un quinquennat dont toutes les défaillances à venir étaient déjà en jachère pendant la campagne. Je me faisais dire la folie d&rsquo;un geste qui me fermait la porte de l&rsquo;industrie. Aurélie Filippetti m&rsquo;envoyait des messages d&rsquo;insultes, furibonde, mais confirmerait son inanité dans le cadre d&rsquo;un mandat ministériel sans bilan. Après avoir tenté d&rsquo;obtenir un « arrangement », elle aurait cette phrase que je retiendrais longtemps: « tu ne feras jamais rien de ta vie ».</p>
+<p>Il me semblait pourtant par ce seul geste avoir déjà plus fait qu&rsquo;elle ne ferait jamais.</p>
+<p>Version haute définition</p>
+<p><a href="http://branco.blog.lemonde.fr/files/2018/09/hadop.pdf">Hadopi et le cinéma</a></p>
+<p>Programme culture élaboré avant d&rsquo;être abandonné par François Hollande et Aurélie Filippetti</p>
+<p><a href="http://branco.blog.lemonde.fr/files/2018/09/5.Programme-FH-2012-Culture.pdf">5.Programme FH 2012 Culture</a></p>
+	</div><!-- .entry-content -->
+	
+	<footer class="entry-meta">
+					<div class="comments-link">
+				<a href="http://branco.blog.lemonde.fr/2018/09/05/hadopi-et-le-cinema-francais/#respond"><span class="leave-reply">Laisser un commentaire</span></a>			</div><!-- .comments-link -->
+		
+			</footer><!-- .entry-meta -->
+</article><!-- #post -->
+							
+<article id="post-289" class="post-289 post type-post status-publish format-standard has-post-thumbnail hentry category-non-classe">
+	<header class="entry-header">
+				<div class="entry-thumbnail">
+			<img width="604" height="270" src="http://branco.blog.lemonde.fr/files/2018/04/palais_de_justice_de_paris_sipa_0-604x270.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" />		</div>
+		
+				<h1 class="entry-title">
+			<a href="http://branco.blog.lemonde.fr/2018/04/14/sur-le-nouveau-palais-de-justice-de-batignolles/" rel="bookmark">Sur le nouveau palais de justice de Batignolles</a>
+		</h1>
+		
+		<div class="entry-meta">
+			<span class="date"><a href="http://branco.blog.lemonde.fr/2018/04/14/sur-le-nouveau-palais-de-justice-de-batignolles/" title="Permalien vers Sur le nouveau palais de justice de Batignolles" rel="bookmark"><time class="entry-date" datetime="2018-04-14T20:02:00+00:00">14 avril 2018</time></a></span><span class="categories-links"><a href="http://branco.blog.lemonde.fr/category/non-classe/" rel="category tag">Non classé</a></span><span class="author vcard"><a class="url fn n" href="http://branco.blog.lemonde.fr/author/branco/" title="Afficher tous les articles par brancojuan" rel="author">brancojuan</a></span>					</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<p style="text-align: justify">Le nouveau « palais » de justice sis à Batignolles, dessiné par Renzo Piano et construit par une filiale de Bouygues, peut inquiéter quiconque tiendrait encore à l’architecture, et en particulier celle des lieux de l’État, comme à un vecteur et non simplement à une fonctionnalité. S’inscrivant dans la droite lignée d’une esthétique moderniste rendant indifférenciables les bâtiments selon leur fonction et leur portée, cette construction participe d’une désincarnation dangereuse de nos espaces publics, et de notre capacité à faire société.</p>
+<p><img class="alignnone size-full wp-image-290" src="http://branco.blog.lemonde.fr/files/2018/04/palais_de_justice_de_paris_sipa_0.jpg" alt="" width="1000" height="520" srcset="http://branco.blog.lemonde.fr/files/2018/04/palais_de_justice_de_paris_sipa_0.jpg 1000w, http://branco.blog.lemonde.fr/files/2018/04/palais_de_justice_de_paris_sipa_0-300x156.jpg 300w, http://branco.blog.lemonde.fr/files/2018/04/palais_de_justice_de_paris_sipa_0-768x399.jpg 768w, http://branco.blog.lemonde.fr/files/2018/04/palais_de_justice_de_paris_sipa_0-900x468.jpg 900w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p style="text-align: justify">Désincarné et désincarnant, l’édifice l’est non seulement du fait de sa localisation ni des raisons qui ont amené à sa construction (achat de la « paix sociale » avec Martin Bouygues par M. Sarkozy après plusieurs déconvenues, par le truchement d’un PPP rapidement dénoncé), mais de sa structure même, qui se refuse à la moindre spécificité qui en soulignerait la fonction, et permettrait à quiconque d’immédiatement identifier le rôle qui lui est attribué. De la même façon que son extérieur a été volontairement abstrait de la moindre spécificité, son intérieur, et en particulier ses salles d’audience, se calque sur un modèle minimaliste popularisé par de nombreux ensembles commerciaux, accumulant luminaires et blocs de blancheur faisant face à des bois condensés, espaces vitrés et jeux de symétrie qui font primer les notions de confort et de fluidité sur une quelconque aspiration à l’historicité. Délibérément rejetés, les symboles apparaissent singulièrement inexistants – au point où l’une des rares caractéristiques architecturales propres au bâtiment, ses puits de lumière, ait été dénommé « Marylin », en rapport à la robe de l’actrice bien connue. La majesté, la capacité d’imposition, le travail de la matière, qui ont en tous temps fait des palais de la République des points d’ancrage de l’État dans la société, sont introuvables. Lieux de signification, les « lieux d’État », par la spécificité de leur esthétique, se sont traditionnellement faits porteurs d’un sens explicite, nourrissant le sentiment d&rsquo;appartenance, la compréhension même par des voies non écrites, symboliques et donc accessibles à tous, des valeurs et hiérarchies portées par le régime les ayant construit, afin de faciliter et notre sentiment d’appartenance à une communauté. Les voici ici significativement absents. Confié à un grand cabinet d’architectes internationaux, le bâtiment ainsi construit, qui viendra remplacer un lieu situé au cœur de la cité, où se rendait justice depuis près de deux millénaires sans discontinuer, se montre au contraire délié de tout rapport aux enjeux politiques et souverains du faire justice. Faisant comme si la société était un dû, l&rsquo;autorité un fait, déliables tous deux des ancrages physiques, urbains ou géographiques, il se nourrit d’une vision standardisée, où la pure performativité s’impose, faisant perdre tout rapport du bâti au politique, au profit de visions esthétiques ou fonctionnelles « pures » interchangeables selon les pays.</p>
+<p><img class="alignnone size-full wp-image-293" src="http://branco.blog.lemonde.fr/files/2018/04/Justice9.jpg" alt="" width="900" height="600" srcset="http://branco.blog.lemonde.fr/files/2018/04/Justice9.jpg 900w, http://branco.blog.lemonde.fr/files/2018/04/Justice9-300x200.jpg 300w, http://branco.blog.lemonde.fr/files/2018/04/Justice9-768x512.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" /> <img class="alignnone size-full wp-image-292" src="http://branco.blog.lemonde.fr/files/2018/04/Justice10.jpg" alt="" width="900" height="600" srcset="http://branco.blog.lemonde.fr/files/2018/04/Justice10.jpg 900w, http://branco.blog.lemonde.fr/files/2018/04/Justice10-300x200.jpg 300w, http://branco.blog.lemonde.fr/files/2018/04/Justice10-768x512.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" /></p>
+<p><img class="size-full wp-image-291" src="http://branco.blog.lemonde.fr/files/2018/04/6b68d6e_5239148-01-06.jpg" alt="" width="1068" height="712" srcset="http://branco.blog.lemonde.fr/files/2018/04/6b68d6e_5239148-01-06.jpg 1068w, http://branco.blog.lemonde.fr/files/2018/04/6b68d6e_5239148-01-06-300x200.jpg 300w, http://branco.blog.lemonde.fr/files/2018/04/6b68d6e_5239148-01-06-768x512.jpg 768w, http://branco.blog.lemonde.fr/files/2018/04/6b68d6e_5239148-01-06-1024x683.jpg 1024w, http://branco.blog.lemonde.fr/files/2018/04/6b68d6e_5239148-01-06-900x600.jpg 900w" sizes="(max-width: 1068px) 100vw, 1068px" /></p>
+<p style="text-align: justify">S&rsquo;il y avait subversion à Pompidou, également dessiné par M. Piano, il y a soumission ici, quarante ans plus tard, à la « modernité marchande » mondialisée dans sa plus pure expression, au cœur même du lieu où l’attribution fondatrice de l&rsquo;État, la capacité à juger et à dire le droit, se donnera. Il ne s’agit pas ici de juger le bâtiment au titre d’un « goût » quelconque, notion liée au particulier, mais au contraire à partir de sa capacité à la généralité, c’est à dire au faire société. La « laideur » apparente du lieu &#8211; qui n&rsquo;est a priori pas objectivable en soi &#8211; n&rsquo;est que la conséquence de son inexistence symbolique, défendue par son architecte dans le cadre d’un argumentaire stéréotypé, applicable à chacune de ses constructions, comme s’il s’agissait d’un ensemble de bureaux quelconque, et qui réduit dès lors le bâtiment, malgré l’appréciation qui aurait pu en termes purement architecturaux lui être vouée, à l’écrasante banalité à laquelle son auteur l’a condamné.</p>
+<p style="text-align: justify">La question est bien celle qui nous a amené à accepter la construction d’un bâtiment  où l’enjeu esthétique ou architectural se sont imposés au sens et à notre volonté d’incarner. La sidérante acceptation par notre société de ce qui apparaît comme le fruit d’une absence délibérée de pensée, doit troubler. Quelle pérennité peut-on attendre de bâtiments défaits de toute (em)prise, complètement désaffectés, incapacités à accueillir nos projections, pulsions, angoisses, parce que purifiés, « lissés » au profit d’un goût absolu, déterritorialisé et défait des spécificités de notre société, au titre d’une supposée modernité ? Que penser d’une civilisation incapable d’inscrire ses valeurs dans son bâti, inquiète à l’idée de susciter l’admiration ou la crainte, l’imposition par le symbole, et qui semble, au profit d’une forme de performativité, avoir abandonné toute aspiration à l’historicité ? L&rsquo;obsession de la transparence et de la lumière portée par M. Piano au sujet de son bâtiment est à ce titre significative, tout autant que celle visant à ne « pas faire monter d&rsquo;imposants escaliers » &#8211; remplacés par des escalators et des espaces communs propres aux galeries marchandes &#8211; aux citoyens. Le confort et le <em>design</em>, le <em>standing</em> se sont imposés au cœur même de ce qui devrait faire autorité – sans que pour autant cela n’interdise à ses concepteurs d’imposer d’humiliantes toilettes à la turque aux détenus qui par-là passeront. Derrière les abords d’une humanisation chloroformée, entre la Cour d’assises et l’Apple Store du Louvre, bientôt, l’indistinction s’imposera. Et de s’interroger : a-t-on à ce point perdu tout sens de qui fut jadis dit souveraineté ?</p>
+<p>&nbsp;</p>
+<p><img class="alignnone size-full wp-image-294" src="http://branco.blog.lemonde.fr/files/2018/04/Justice5.jpg" alt="" width="900" height="600" srcset="http://branco.blog.lemonde.fr/files/2018/04/Justice5.jpg 900w, http://branco.blog.lemonde.fr/files/2018/04/Justice5-300x200.jpg 300w, http://branco.blog.lemonde.fr/files/2018/04/Justice5-768x512.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" /></p>
+<p style="text-align: justify">
+	</div><!-- .entry-content -->
+	
+	<footer class="entry-meta">
+					<div class="comments-link">
+				<a href="http://branco.blog.lemonde.fr/2018/04/14/sur-le-nouveau-palais-de-justice-de-batignolles/#comments">Afficher les 3 commentaires</a>			</div><!-- .comments-link -->
+		
+			</footer><!-- .entry-meta -->
+</article><!-- #post -->
+							
+<article id="post-267" class="post-267 post type-post status-publish format-standard hentry category-non-classe">
+	<header class="entry-header">
+		
+				<h1 class="entry-title">
+			<a href="http://branco.blog.lemonde.fr/2017/09/10/267/" rel="bookmark">Contre Macron – Pour une critique idéelle</a>
+		</h1>
+		
+		<div class="entry-meta">
+			<span class="date"><a href="http://branco.blog.lemonde.fr/2017/09/10/267/" title="Permalien vers Contre Macron – Pour une critique idéelle" rel="bookmark"><time class="entry-date" datetime="2017-09-10T09:13:07+00:00">10 septembre 2017</time></a></span><span class="categories-links"><a href="http://branco.blog.lemonde.fr/category/non-classe/" rel="category tag">Non classé</a></span><span class="author vcard"><a class="url fn n" href="http://branco.blog.lemonde.fr/author/branco/" title="Afficher tous les articles par brancojuan" rel="author">brancojuan</a></span>					</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<p style="text-align: justify"><a href="http://branco.blog.lemonde.fr/files/2017/10/Contre-Macron-1.pdf">VERSION PDF</a></p>
+<p style="text-align: justify">
+	</div><!-- .entry-content -->
+	
+	<footer class="entry-meta">
+					<div class="comments-link">
+				<a href="http://branco.blog.lemonde.fr/2017/09/10/267/#comments">Afficher les 2 commentaires</a>			</div><!-- .comments-link -->
+		
+			</footer><!-- .entry-meta -->
+</article><!-- #post -->
+							
+<article id="post-263" class="post-263 post type-post status-publish format-standard hentry category-non-classe">
+	<header class="entry-header">
+		
+				<h1 class="entry-title">
+			<a href="http://branco.blog.lemonde.fr/2017/08/25/sur-act-up/" rel="bookmark">Sur Act Up</a>
+		</h1>
+		
+		<div class="entry-meta">
+			<span class="date"><a href="http://branco.blog.lemonde.fr/2017/08/25/sur-act-up/" title="Permalien vers Sur Act Up" rel="bookmark"><time class="entry-date" datetime="2017-08-25T04:45:51+00:00">25 août 2017</time></a></span><span class="categories-links"><a href="http://branco.blog.lemonde.fr/category/non-classe/" rel="category tag">Non classé</a></span><span class="author vcard"><a class="url fn n" href="http://branco.blog.lemonde.fr/author/branco/" title="Afficher tous les articles par brancojuan" rel="author">brancojuan</a></span>					</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div id="js_9" class="_5pbx userContent">
+<p style="text-align: justify">J&rsquo;ai, depuis l&rsquo;enfance, gardé un t-shirt d&rsquo;Act Up qui avait été alors acheté par mes parents, et qui m&rsquo;avait longtemps servi de pyjama, avant que je découvre à l&rsquo;adolescence, à travers Guibert et plusieurs autres, une époque que j&rsquo;avais connu en restes, et me pétrisse d&rsquo;admiration, un peu seul, pour l&rsquo;une des organisations politiques les plus précieuses de notre époque, que je considérerais bientôt comme étant la seule à s&rsquo;être montrée porteuse d&rsquo;une radicalité politique méritant admiration depuis de nombreuses années.</p>
+<p style="text-align: justify">Complètement effacée de la scène mythologique politique, elle fait aujourd&rsquo;hui un retour massif par la grâce de l&rsquo;un de ses anciens membres, et une œuvre de cinéma qu&rsquo;il faut, paraît-il, aller voir.</p>
+<p style="text-align: justify">Il y a un petit pincement, comme toujours en des situations similaires, à se savoir bientôt « rattrapé » par sa génération dans la connaissance et l&rsquo;admiration d&rsquo;un phénomène, d&rsquo;un geste contre-sacrificiel, d&rsquo;une grandeur qui avaient jusqu&rsquo;alors été largement ignorés et silenciés dans leur transmission.</p>
+<p style="text-align: justify">Il y avait un beau confort, et un certain sens, à ce silence qui répondait, dans une symétrie parfaite, à la radicalité de l&rsquo;engagement, à une forme de pureté et d&rsquo;isolement longtemps préservés.</p>
+<p style="text-align: justify">Un silence qui ne disait plus mort, et qui confortait ceux qui en avaient été, puis ceux qui les admiraient, dans leur conviction d&rsquo;avoir su et été, contre vents et marée. Alors que le principe actif de l&rsquo;organisation, la maladie qui l&rsquo;avait fait naître, avait été « avalée » et récupérée par le commun, la rage de l&rsquo;irreconnaissance pouvait, semble-t-il, et en tous cas pour les rares de ma génération, laisser place à l&rsquo;admiration silencieuse qui était la seule digne possibilité pour des filleuls qui ne pouvaient en rien s&rsquo;en réclamer.</p>
+<p style="text-align: justify">J&rsquo;entends et vois parmi beaucoup de ceux qui participèrent à cette geste, évitèrent la mort à laquelle ils s&rsquo;exposaient, et pour beaucoup survécurent &#8211; et j&rsquo;insiste sur le terme de survie &#8211; à grands peines à, et en même temps grâce à leur engagement, une peine à se voir ainsi « reconnus » et récupérés à contre-temps, après avoir été méprisés et abandonnés, rendus à leur minorité. Après avoir tant donné, et s&rsquo;être vu tant arraché, tout au long de leur vie.</p>
+<p style="text-align: justify">A voir bientôt fleurir, dans les rues de Paris, les triangles roses qui jusque là avaient été oubliés et conspués. Qui leurs avaient tant coûté.</p>
+<p style="text-align: justify">Quelle gloire pourtant, pour eux, d&rsquo;avoir ainsi, pour beaucoup dans la misère et la souffrance, pour quelques uns dans l&rsquo;aisance et la réussite, vécu et survécu à leur engagement.</p>
+<p style="text-align: justify">D&rsquo;avoir quelque part, au fond de leur tiroir, un t-shirt originel qu&rsquo;ils avaient peut-être, pour en faire un pyjama, donné à leur enfant ou gardé.</p>
+<p style="text-align: justify">Et de voir les quelques croyants qui silencieux les admiraient, soudain se voir rejoints par des cohortes maintenant, enfin, rendues à l&rsquo;évidence.</p>
+<p style="text-align: justify">Celle qui les rendait obligeantes à leur égard, et confirmait leur droit infini à la fierté.</p>
+<p style="text-align: justify">Celle qui leur permettait enfin de dire: nous avons, ou nous aurions dû gagner.</p>
+<p style="text-align: justify">Le politique est, dans son extériorité, un perpétuel renversement qui menace d&#8217;emportement quiconque s&rsquo;y soumettrait. C&rsquo;est seulement par la radicalité d&rsquo;un engagement résistant à toutes les passades, soutenu par une idée qui parfois peut emporter toute une vie, que l&rsquo;on fini par la transcender, et au-delà même de marquer l&rsquo;histoire, de donner un sens au combat engagé. Il ne doit y avoir nul regret à l&rsquo;actuelle vague de récupération. Seulement peut-être une leçon, pour ceux qui, à travers ce sujet, rentrent ponctuellement en rapport au politique: ne jamais oublier de penser à ceux qui, dans leur radicalité, aujourd&rsquo;hui troublent et inquiètent comme un jour Act Up le fit, pour cette fois, plutôt que de céder à l&rsquo;appréhension naturelle qui saisit toujours face au combat d&rsquo;apparence minoritaire, ne pas avoir peur, et enfin, dans leur solitude et leur difficulté, les accompagner.</p>
+<p style="text-align: justify">Ici et ailleurs, l&rsquo;indifférence tue, encore aujourd&rsquo;hui.</p>
+<p style="text-align: justify">Bien plus encore que la brutalité.</p>
+<p style="text-align: justify">Hommage et merci.</p>
+</div>
+	</div><!-- .entry-content -->
+	
+	<footer class="entry-meta">
+					<div class="comments-link">
+				<a href="http://branco.blog.lemonde.fr/2017/08/25/sur-act-up/#comments">Un commentaire pour le moment</a>			</div><!-- .comments-link -->
+		
+			</footer><!-- .entry-meta -->
+</article><!-- #post -->
+							
+<article id="post-255" class="post-255 post type-post status-publish format-standard hentry category-non-classe">
+	<header class="entry-header">
+		
+				<h1 class="entry-title">
+			<a href="http://branco.blog.lemonde.fr/2017/08/09/jetais-alle-chercher-la-mort-au-nord-kivu/" rel="bookmark">J’étais allé chercher la mort au Nord Kivu</a>
+		</h1>
+		
+		<div class="entry-meta">
+			<span class="date"><a href="http://branco.blog.lemonde.fr/2017/08/09/jetais-alle-chercher-la-mort-au-nord-kivu/" title="Permalien vers J’étais allé chercher la mort au Nord Kivu" rel="bookmark"><time class="entry-date" datetime="2017-08-09T21:38:30+00:00">09 août 2017</time></a></span><span class="categories-links"><a href="http://branco.blog.lemonde.fr/category/non-classe/" rel="category tag">Non classé</a></span><span class="author vcard"><a class="url fn n" href="http://branco.blog.lemonde.fr/author/branco/" title="Afficher tous les articles par brancojuan" rel="author">brancojuan</a></span>					</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<p style="text-align: justify">J’étais allé chercher la mort au Nord-Kivu, dans les plaines sanguinolentes où elle semblait promise à quiconque viendrait la chercher. Je ne l’ai trouvée qu’un an et demi plus tard, au Centrafrique, fugacement, sur une route. On n’a pas assez dit à quel point les cadavres ne suscitaient pas la moindre trace d’empathie. Ils marquent, comme les balles qui sifflent et vous maintiennent, de longues minutes ou heures durant, dans le même état de calme hystérie qu’une voiture vous ayant frôlé, un jour banal à Paris. Rien, en comparaison au drame de l’arrachement à des corps encore vivants, liés, attendant une certaine disparition.</p>
+<p style="text-align: justify">J’étais allé chercher la mort, comme je l’avais fait quelques temps auparavant, sur une autoroute française dans un geste inconscient qui avait failli coûter la vie à ma compagne. J’étais allé chercher une mort que la politique m’avait rendue nécessaire, inévitable, déjà réelle. Une mort que j’avais pu observer quelques semaines plus tôt, sous l’effet d’un double <em>événement </em>: l’élection d’un homme, au nom d’une idée à laquelle il n’avait pas cru. Et celle, plus intime, plus personnelle, d’un proche, non pas un être supérieur, pas même un exemple, un simple être qui avait été là, symbole du père, dans les derniers mois de sa vie. Un être que j’avais vu dans son tombeau, <em>avant tout le monde</em>, ou plutôt après, toujours plus et trop tard.</p>
+<p style="text-align: justify">J’étais allé chercher la mort et je ne l’ai pas trouvée. Non pas tant pour moi qu’autour de moi, dans cette plaine qui s’y était habituée, à cette <em>mort</em>, et qui y vivait dansante, pleine de vie, comme se nourrissant de chaque catastrophe. Adossée à un volcan en activité qui purgeait la ville de décennie en décennie, ils semblaient s’être faits à cette nature aux cycles bien courts, qui les fauchaient aux rythmes des hasards et des lunes. Une cadence sans naissance, sans fin, où les causes secondaires se multipliaient tant elles n’avaient plus de sens, plus d’intérêt.</p>
+<p style="text-align: justify">J’étais allé chercher la mort et j’y trouverais la vie. La vie d’hommes qui vivaient au-delà de la politique, d’une politique qui les rejetait, ignorait, exploitait. Une vie d’hommes réduits aux interstices, comme ces artistes sans âme qui tiennent là leur renaissance. Au cœur des ténèbres, comme l’avait défini de façon si erronée Joseph Conrad, tout n’était que lumières, luxure, mouvement. Les paysages eux mêmes empruntaient à la Suisse. J’ai le souvenir aujourd’hui de ces voyages en moto puis en bus sillonnant des chemins sans route avec la tendresse des adolescents s’engageant pour la première fois dans leur épopée collective, seuls enfin sans autorité, dans une Volkswagen triturée, partant à la découverte de tel désert de Californie ou de Madrid. Voilà comme j’étais, seul parmi la foule, étranger collé à la fenêtre admirant le monde, dans une passivité léthargique, triste, embuée et passionnée.</p>
+<p style="text-align: justify">J’y suis allé comme un soldat déchu, qui était entré en politique comme on entre en religion, certain de changer le monde dans une structure sans idées, convaincu que les siennes viendraient combler les failles qui n’attendaient que cela. J’y étais entré comme en religion, promis à un brillant futur, capable à vingt deux ans de changer le monde, comme j’avais commencé à le faire quelques années plus tôt ailleurs, dans une instance pastorale sans pouvoir, la Cour pénale internationale. Recruté à un grade élevé, commandant déjà, <em>directeur de cabinet</em>, qu’importait qu’il n’y ait eu ni cabinet ni directeur, et que le titre m’ait été retiré à peine donné. L’intronisation était sacrale, les desseins seraient à l’avenant. J’étais donc entré, presque ravi de ne pas avoir à discuter des fonctions des uns des autres, recrutant une ou deux personnes de mon âge ou plus anciennes, prêt à impliquer tous mes amis. J’étais entré comme on entre dans la guerre, voyant déjà les masses obscures se dresser, mais investi d’une mission, sans craindre ni céder.</p>
+<p style="text-align: justify">La <em>sociale</em>-démocratie a ceci de tout à fait propre à elle-même qu’elle mêle une culpabilité certaine à une ambition renoncée. Personne ne m’a arrêté. Personne n’a osé me dire à quel point la route était fausse, le chemin embourbé. Sans issue. En silence, gêné j’imagine, ces êtres sans enfance m’ont laissé continuer, construire, élaborer, préparer seul des lendemains collectifs que les autres n’envisageaient déjà que dans l’attente du couronnement individuel et du sacre administratif. Se battait-on pour une place de cabinet, proposant de façon symétrique à trois, quatre, cinq futurs ministres des services tout aussi compétents, que je toisais mes voisins de bureau, futurs ministres de l’intérieur et des finances, conseillers spéciaux et autres joyeusetés. Chacun n’était-il déjà que sourire, artifice et porteur de la victoire que, non moins ambitieux, je préparais l’organigramme de l’après, celui du programme de pouvoir et de l’enchainement des batailles législatives, réglementaires, budgétaires, visant à atteindre notre grandeur. Quand vint le temps de préparer les organigrammes qui seuls comptaient, ceux qui <em>plaçaient</em>, les illusions s’étaient déjà apaisées, et c’était comme dans la préparation d’une transition vers le réel que je m’y résignais, sachant déjà. Je me réservais à toutes fins utiles, au cas où, la pièce de maître, échappant aux hiérarchies, seule qui vaudrait la peine, impossibilité trop importante pour qu’elle n’équivaille pas déjà à un premier suicide. Je ne la partageais jamais, refusant les hypothèses à droite à gauche avancées non par le souverain mais par ses courtisans, craignant de mêler mon ambition à la leur, mon nom à l’airain.</p>
+<p style="text-align: justify">L’appel ne vint jamais, suite logique, conséquence nécessaire d’un double langage qui avait été le notre depuis le jour un. La reine en position de pouvoir avait préféré son poste à la gloire, la réalité aux idées. La séduction qui avait opéré ne pesait rien face à celle du Roi, ce désir qui l’avait tant angoissée, placée là en attente d’un sacre qu’elle craignait de rater. Le dédoublement des chemins avait commencé au lendemain d’un geste sans égards ni préventions du futur Président, geste montrant que les adversaires écartées étaient revenues par le dessus, geste divin signant la fin des hostilités. Nous avions perdu et nous devions nous y faire. En vain j’écrivais, sollicitais, mettais en avant le déshonneur d’une défaite en si rase campagne. Immuable, Il restait silencieux, tandis qu’elle suivrait, d’instinct, meurtrie, blessée, prête à tout pour récupérer le cœur éloigné.</p>
+<p style="text-align: justify">Un mot vint quelques jours plus tard, qui redonnerait espoir, et quel espoir. IL indiquait à la reine avoir lu les correspondances que l’on avait crues ignorées, et lui faisait savoir tout le bien qu’il en pensait. Je les lui avais transmises en douce, sabotant les rapports hiérarchiques qui à moi s’imposaient, m’en excusant, réclamant l’état de nécessité. Alors que ma lettre était prête, le départ acté, Le Monde prêt à publier, voilà qui relançait la machine. Ferveur redoublée, retour aux organigrammes, à la pensée, à la reconstruction d’un rêve déchu. Comme en ces histoires d’amour qui reprennent une énième fois, pourtant, imperceptiblement, déjà la reine était ailleurs, apeurée par la déchéance qu’elle avait failli embrasser. Déjà le Mot avait un goût funéraire que nous ne vîmes pas, aveuglés par l’amour de l’idée, du combat à recommencer. Octroyé pour s’assurer la solidarité de ses valets, il avait substitué la lutte à l’allégeance, et j’avais tout raté. <em>Tout le bien qu’il en pensait</em> ne concernait pas l’idée, la stratégie, mais l’individualité, c’est à dire moi-même. Tout cela n’avait permis que de s’assurer que de renonciation il n’y ait, et que par les liens de vassalité promis et bientôt créés, l’homme à ses côtés resterait.</p>
+<p style="text-align: justify">Nous ne vîmes ou ne voulûmes rien voir, et l’écart fut naturellement grandissant. A eux les adultes qui avaient passé la page, et continuaient à creuser le sillon qui les amènerait à la victoire – mais quelle victoire, quelle piètre victoire – répondait l’aveuglement du jeune adolescent, chaque jour un peu moins supportable, qui cette fois seul, véritablement seul, continuait à préparer la bataille d’après, luttant contre les moulins à vent, élaborant, consultant, tenant, ignorant, les destinées d’un bateau qui avait déjà coulé.</p>
+<p style="text-align: justify">Je suis allé chercher la mort au Nord-Kivu en animal politique échancré, affaibli, rejeté ; pour voir ce qui venait de me terrasser. En animal politique déchu, utilisé, dégoûté d’avoir cru et pourtant incapable de cesser de croire. En animal de vingt-deux ans, qui n’avait jamais envisagé que de se battre, que l’on était sûrs d’avoir écrasé, et qui se refusait de renoncer à espérer. De s’indigner. De se renouveler. Sans gloire ni pouvoir, sans statut, dans le seul but initial de mourir et de voir la mort qui nous occupait déjà, dans le silence des lisières de la modernité, au plus profond des ténèbres, barrage après barrage, <em>check point</em> après <em>check point</em>, j’ai cherché jusqu’à atteindre cet étrange village de Ngululu, entouré de soldats cagoulés, brûlé jusqu’à la moelle, jusqu’à l’hôpital, entouré de miliciens prêts à reprendre l’assaut, à huit heures de marche de l’électricité, dix heures de la capitale de la région, vingt heures de la capitale de ma déception. Je m’y retrouverai passionné, émerveillé, enthousiasmé, au milieu de ce que d’aucuns décriraient, morbides, comme la fin de l’humanité, la peur, l’angoisse, la lutte, des luttes qui ne m’appartenaient pas, où je n’avais aucun rôle et où je n’aspirais à n’en avoir aucun.</p>
+<p style="text-align: justify">Spectateur, rapporteur, dialogueur, sans point de chute ni d’appui, inexistant et pourtant, justement, plein de vie, parce qu’éloigné du système, de ce système dont tant tentent inexorablement d’en faire une condition d’existence, seul à broyer et dissoudre véritablement, seul à écraser, recycler et instrumentaliser.</p>
+<p style="text-align: justify">Là entouré des miens, des mêmes, de ceux qui n’attendaient plus rien, qui ne croyaient plus en rien, et dès lors croyaient plus que quiconque, là, voyant leur lutte, partageant les moments de répit, j’ai retrouvé la force pour me relancer, et pour recommencer. Au milieu de ceux-là, <em>là-bas</em>, qu’on ne présente qu’en victimes, sauvages ou exploités, un air peiné et la main déjà prête à se laisser écraser, et qui debout, les jambes tremblantes et les traumatismes à vif, m’ont rendu à la vie, à cette vie qui leur est si précaire, et qu’ils sauront toujours épouser.</p>
+<p style="text-align: justify">J’ai trouvé la mort au Nord-Kivu, celle des espérances, de la croyance en la sacralité d’un système, d’un pouvoir qui n’était déjà plus avant même d’être né, salué par une foule à la Bastille qui semblait comme payée, amenée de force, <em>télé</em>guidée, pour apprécier l’assurance dépassionnée et ennuyante du dirigeant qui lui faisait ce soir-là face. Je le sais pour l’avoir vu, connu, croisé, disséqué, éreinté. Ce soir là il ne ressentait rien. Face à l’Histoire, la satisfaction n’est pas un sentiment.</p>
+<p style="text-align: justify">Geste sans conséquence, je n’avais pu voter pour lui, ni pour eux, avant même la déchéance. Les illusions fracassées étaient trop douloureuses, trop tristes. Me revenaient les dizaines de technocrates qui s’étaient progressivement réunis autour de leur chef tribal pour l’aduler sans passion, sans même donner l’impression d’être dupes de leur propre comédie du pouvoir, sachant déjà que l’enjeu n’était plus que personnel, eux qui m’avaient abreuvé sans honte de notes, voyant en moi un potentiel relais parmi d’autres, sans craindre de me croiser par la suite, entichés au sein d’une autre écurie, comme cela arriverait si souvent. Le chef devenu Roi ne l’avait-il pas dit, quelques mois avant le sacrément, à ceux qui étaient venus le voir en nombre, réunion des futurs vizirs : vous êtes venus là pour des postes, et c’est normal, vous en aurez. Comme ça, publiquement, <em>normalement</em>, rejetant de fait tous ceux qui, venus sans ambition autre que leurs illusions, croyants désintéressés, aimants sincères, dont il n’avait jamais été et donc pensait ne pas exister, avaient cru espérer. La chose lui apparaissait trop sérieuse, trop professionnelle pour l’abandonner à une quelconque passion. Il fallait des soldats mercenaires, des lutteurs professionnels, des hommes sans esprit. Nous, nous qui étions déjà à l’intérieur, nous que ces mots ne concernaient déjà plus, nous étions de fait, déjà, retrouvés exclus.</p>
+<p style="text-align: justify">Faut-il dire quelques mots de ce combat vain qui fut nommé ? Puisqu’on m’attribua la culture, alors ce serait la culture, lointaine de nos ambitions mais proche du pouvoir. Il en fallait pour tous, un geste politique, une démocratisation sans équivalent, d’ampleur, afin de réformer le système dans son ensemble. Faire du dérisoire un ensemble flamboyant. Plus de deux cents auditions et des années de recherches préalables, personne n’avais fait un tel travail de recension, analyse, écoute, rejet, violence, écart. À quelques uns, seul pour ainsi dire, nous brassions, luttions, convainquions, corrigions. Sans cesse, des pages et des pages de préparation, des dizaines de schémas et de compte-rendus. Non pas un geste, mais une folle embrassade à la jeunesse, qui survivrait aux directives européennes, aux règles contraignantes, aux luttes des lobbys partisans. Nous réinventerions l’écosystème culturel, sans ne rien céder à la bureaucratie, sans ne rien oublier de ses nécessités. Les mois nous avaient permis de retrouver la grandeur dans un secteur qui ne s’y prêtait guère, sur les quelques parcelles en prêt gracieux que nous avait accordé le souverain, plus pour y faire taire la contestation que pour y faire naître des champs plantureux. La grandeur, la seule qui valait encore aux yeux de toute une génération qui n’avait pas définitivement déchanté, qui après un intermède violent espérait encore, ne demandait qu’à croire. La grandeur, cette angoisse pour toute une autre génération, tribue engoncée, expérimentée, inquiète du monde dont elle avait profité, prêt à tout pour le défendre fut-ce déjà dans la tombe, réflexe naturel, réflexe pavlovien. La grandeur, cette angoisse pour un souverain trop modeste ou conscient de ses limites, craintif de ses limites, apeuré des excès et de l’altérité.</p>
+<p style="text-align: justify">La grandeur ne fut. Parce qu’elle n’est que réservée au Roi, et que celui-ci l’écarta. La mort dans le silence et l’exemplarité. Celle de la disparition anonyme, inconséquente, éloignée de l’Histoire officielle. La mort de la mémoire, du croyant hérétisé, sans leçons ni message, en forme d’acquis. D’accusé de réception. La mort d’une idée. Elle fut rejetée. Dans une brutale excision du <em>système</em>, feu de tout bois, appel aux médias, rage exorcisante face à la violence qui se profilait. Puis le départ. Rupture actée, retour au fondamental, à la renaissance, loin de tout, près des exclus, là où nous avions commencé, là où s’il le fallait il faudrait finir.</p>
+<p style="text-align: justify">L’intuition, cette fois, était bonne. La bonne réponse au pouvoir est le non-pouvoir. Le retour à la transcendance, celle, christique, qui se place <em>en dehors</em> du séculier, loin de son atteinte. Plus d’autorité, plus de pouvoir dans ce non-lieu de la mondialisation, et un renversement des rôles : alors que, miracle de la régénérescence propre au tragique, le hasard renvoie le souverain à cette portion inconnue de son domaine, un soudain monopole du savoir. Parole oraculaire soudainement accessible, celle que le langage contemporain a transformé en <em>expert, témoin</em>, éventuellement mais déjà à un moindre degré <em>reporter de guerre</em>, celle qui voit là où le pouvoir ne peut pas voir, là où il n’a pas prise, c’est à dire déjà dans l’au-delà. Renversement des pouvoirs donc, et par le miracle des voies de communication modernes, signification de celui-ci auprès du souverain resté coincé là-bas, seul dans son palais, aveuglé face à ce point minuscule, mais réel, sur lequel il doit avoir prise. Échec à nouveau, celui qui seul doit au divin, mais cela revient ou même ou cela revient à mieux, à se contenter de ce simple savoir que l’on sait. Nous n’avons rien dit de tout cela tout d’abord et jusqu’à un an plus tard ; il fallait du temps pour <em>faire savoir.</em></p>
+<p style="text-align: justify">Tbc</p>
+<p style="text-align: justify">(<em>reprise d&rsquo;un texte de 2013)</em></p>
+	</div><!-- .entry-content -->
+	
+	<footer class="entry-meta">
+					<div class="comments-link">
+				<a href="http://branco.blog.lemonde.fr/2017/08/09/jetais-alle-chercher-la-mort-au-nord-kivu/#comments">Afficher les 2 commentaires</a>			</div><!-- .comments-link -->
+		
+			</footer><!-- .entry-meta -->
+</article><!-- #post -->
+							
+<article id="post-248" class="post-248 post type-post status-publish format-standard hentry category-non-classe">
+	<header class="entry-header">
+		
+				<h1 class="entry-title">
+			<a href="http://branco.blog.lemonde.fr/2017/07/13/contre-macron-pour-une-critique-ideelle/" rel="bookmark">Contre Macron :  Pour une critique idéelle</a>
+		</h1>
+		
+		<div class="entry-meta">
+			<span class="date"><a href="http://branco.blog.lemonde.fr/2017/07/13/contre-macron-pour-une-critique-ideelle/" title="Permalien vers Contre Macron :  Pour une critique idéelle" rel="bookmark"><time class="entry-date" datetime="2017-07-13T17:39:17+00:00">13 juillet 2017</time></a></span><span class="categories-links"><a href="http://branco.blog.lemonde.fr/category/non-classe/" rel="category tag">Non classé</a></span><span class="author vcard"><a class="url fn n" href="http://branco.blog.lemonde.fr/author/branco/" title="Afficher tous les articles par brancojuan" rel="author">brancojuan</a></span>					</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<p>&#8230; en cours de réécriture.</p>
+	</div><!-- .entry-content -->
+	
+	<footer class="entry-meta">
+					<div class="comments-link">
+				<a href="http://branco.blog.lemonde.fr/2017/07/13/contre-macron-pour-une-critique-ideelle/#comments">Afficher les 3 commentaires</a>			</div><!-- .comments-link -->
+		
+			</footer><!-- .entry-meta -->
+</article><!-- #post -->
+							
+<article id="post-238" class="post-238 post type-post status-publish format-standard hentry category-non-classe">
+	<header class="entry-header">
+		
+				<h1 class="entry-title">
+			<a href="http://branco.blog.lemonde.fr/2017/06/30/le-courage-de-linfini/" rel="bookmark">Le courage de l’infini</a>
+		</h1>
+		
+		<div class="entry-meta">
+			<span class="date"><a href="http://branco.blog.lemonde.fr/2017/06/30/le-courage-de-linfini/" title="Permalien vers Le courage de l’infini" rel="bookmark"><time class="entry-date" datetime="2017-06-30T16:15:11+00:00">30 juin 2017</time></a></span><span class="categories-links"><a href="http://branco.blog.lemonde.fr/category/non-classe/" rel="category tag">Non classé</a></span><span class="author vcard"><a class="url fn n" href="http://branco.blog.lemonde.fr/author/branco/" title="Afficher tous les articles par brancojuan" rel="author">brancojuan</a></span>					</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<p style="text-align: justify">Un être, seul, métis, attends, prostré dans une cuisine, verre de vin à ses côtés, comptant les jours. La maison est jonchée des débris de soirées et d’une vie d’ailleurs. La boisson, amère, active un mouvement jusque-là refoulé, une prise de conscience d’un corps qui résiste à l’effondrement. Le dégoût et l’ennui portent. La rage, parfois, s’exprime, la compatibilité des temps non-passants s’énonce une fois et une autre encore. Il n’y a pas d’extérieur. Il n’y en a jamais eu.</p>
+<p><iframe width="604" height="340" src="https://www.youtube.com/embed/xC4Rl6E21ws?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align: justify">Le corps, dans cette solitude et ce dégoût, dans cet espace enfermant qui est pure intériorité, peu à peu se déploie et s’ensauvage. Le regard prend l&rsquo;abord, à travers l&rsquo;amertume, du défi. Le vide, pourtant, se refuse à la saisine, et les caresses qui s’auto-attribuent ne suffisent pas. Une cigarette est prise, les contorsions visant à occuper l’espace l’âme se déploient, sans ne réussir à avancer. Un jeu d’éternel retour se met en œuvre, dans lequel le désir commence à naître. Le trou s’éloigne. Mais l&rsquo;abime reste.</p>
+<p style="text-align: justify">Pris dans un mouvement qui commençait à s&rsquo;abandonner à l&rsquo;autoréférence, l&rsquo;être empourpre son regard de peur. Un autre est apparu. Dans l’espace intérieur qui compose cette maison embuée, où la vie a fui, où les fenêtres donnent sur le clos du soi, un être au regard timide est apparu.</p>
+<p style="text-align: justify">Dans la libération, dans l’extension d’un corps approché par la vie, avec lui, la possibilité de la rencontre. D’une vie enfin réinitialisée. L&rsquo;on ne comprendra, l&rsquo;on ne saura pas comment il est venu. Les yeux, jusque là opaques, ont perdu toute leur ampleur. Ils dévorent un espace non plus évidé, mais  menaçant. Ils sont pourpres de peur. Ils n&rsquo;osent pas croiser les autres. L’événement est celui des aperçus qui croient encore en l&rsquo;effacement, de ces instants qui encore ne tiennent que par l&rsquo;inexistant.</p>
+<p style="text-align: justify">L’homme, lui aussi, jette un œil puis détourne le regard. Son bras, sa main seuls, s’étendent vers le tiers identifié, comme pris d’une tension qu’il aurait espéré rejeter. Un premier mouvement est tenté : il échoue et est immédiatement inhibé : la comparse, dos tourné, est encore emportée dans ses aveugles convulsions et prétends n&rsquo;avoir rien vu &#8211; espère encore pouvoir l&rsquo;expulser, <em>a minima</em>, le contenir et l&rsquo;ignorer. L’élégance pourtant, la délicate approche d’une main inhibée dans le même instant, apparaissent déjà, dans leur entre-jeu, irrésistibles. Il y a de l’humanité, soudain, dans ce lieu jusque là inexistant qui maintenant accepte le tremblement et la soumission.</p>
+<p style="text-align: justify">La communication est encore bancale, défaillante, fragile. Elle le rate sans le savoir, prend le verre sans le voir, ne remarque pas qu’une main se tendait pour rattraper son habit, tandis qu&rsquo;il le laissait tomber pour la rattraper elle, avant de se trouver immédiatement mis à l’écart, enfin rattrapé.</p>
+<p style="text-align: justify">Elle ne le remarquait pas, mais elle n&rsquo;a plus le choix. Elle lui ouvre une porte, cesse de déclamer sa victimité : à lui de jouer. L’attention est enfin donnée, le renoncement évité, les corps et non plus les rythmes seuls s&rsquo;accordent, le rapport peut s&rsquo;enclencher. Elle, enfin, l&rsquo;a vu, ou plutôt déjà, le regarde, le dévore de ces yeux qui craignent la mort et qui, pourtant, sont prêts à tout donner pour l&#8217;embrasser. La vitesse d’exécution est sidérale, de l’ordre de ces microsecondes qui décident les destins, et l&#8217;embranchement ne cesse d&rsquo;avoir lieu pour se décomposer. Le rejet n’en est pas un, la synchronisation déjà présente : l’on s’écarte dans un même mouvement, l&rsquo;on marche un instant ensemble : l&rsquo;existence du lien est acté. A la compulsion de la femme répondait l&rsquo;approche refoulée de l’homme : dans les deux cas, une crainte du tiers consciente ou effacée qu&rsquo;ils sont en train de juguler.</p>
+<p style="text-align: justify">Impossible alors de décrire une scène qui tient en si peu de secondes et tant de temps, et où le regard doit se partager en deux individualités en train de se saisir, deux qui ne font pas encore Un et qui pourtant, dans la résistance qui fonde l’attraction, sont déjà en cours de fusion. Le jeu de séduction qui suit, la fascination des regards, la certitude de plaire, les mouvements qui vont s’accorder pour s’éloigner, la complicité qui s’échappe pour devenir jugement, autorité, fierté avant de reconstituer un espace commun dans le jeu, les caprices amoureux qui envolent avant d’écraser, disent les temps moyens de rapports qui se comptent en années. Le regard apeuré, imitant, fasciné, heureux, empli, de la femme, face à un homme qui dirige, rejette, revient, subit, s&rsquo;échappe, la synchronisation d&rsquo;abord défaillante puis, un instant, un instant seulement, inconsciemment parfaite, l’absence de crainte à l’idée de tomber, le cœur volé, la résistance commune, l’emprise et l’attraction, l’envie d’être l&rsquo;autre, d&rsquo;être Autre, sous l&rsquo;autre, au-dessus, dans l&rsquo;autre, sont autant de suites où se construisent les approches et les tensions qui forment l&rsquo;histoire d&rsquo;une histoire d’amour. Main qui se rate, hésitation, reprise de distance et doigts qui parcourent, pour se <em>re</em>connaître, après une énergique brutalisation. Main qui s’ouvre, qui laisse une chance, malgré la crainte, et la blessure, émotion terrorisante à l’idée de se l’être vue tendue, rejet par celle-là même qui l’avait réclamée, alors qu’elle s’apprêtait à prendre possession de son visage. Départ, alors. Et alors, dans cet alors, alors que la fin menaçait, que l’espace extérieur s’apprêtait à dévorer celui qui un instant fut adopté, pris comme frère, égal, maître et esclave, le visage rattrapé.</p>
+<p style="text-align: justify">L’on sait ce que suscitent ces mélodies du contemporain, l’infini qu’elles promettent dans leur lancinante répétition : sauvage, la projection de la femme vers l&rsquo;homme, à l&rsquo;instant même où celui-ci s&rsquo;apprêtait à acter la fuite qu&rsquo;elle lui réclamait, cette interruption d&rsquo;un pas qui visait à sortir de l&rsquo;espace commun, de cette claustrophobe et souvent glauque intériorité de la relation, demandant une dernière, qui sera énième, chance, vient clore une série d’images qui auraient pu dire un temps, et qui vont dire la vie. Dans ce dernier mouvement, dans cette tension qui tient le flux dans son ensemble, s&rsquo;immobilise afin de dire l&rsquo;éternel, l&rsquo;échec comme la réussite, le choix qui s’impose en toute relation : la chute, ou le maintien. Balance, ou relance.</p>
+<p style="text-align: justify">Faut-il tenir ? Faut-il réinvestir un rapport déjà mille fois épuisé, poussé jusqu’à son paroxysme, ou le fuir ? Reste, reste. Ne rompt pas l’espace fantasmatique que nous avons créé, ce vase clos où l’intérieur est devenu embryon, où le soi est devenu limite extérieure de la vie, et où le nous s’est intériorisé jusqu’à devenir le liquide amniotique où tout, dans l&rsquo;enfermement que compose tout rapport amoureux, se joue. Que demeure loin, alors la réalité… que son retour sera soulageant, fausse respiration à laquelle un impératif devra s’imposer : rester fidèle, revenir, jouer, encore, encore, et rendre à l&rsquo;intérieur ce qui aurait pu le trahir. Nourrir, plutôt qu&rsquo;assécher.</p>
+<p style="text-align: justify">Dans la naïveté de l’enfance, de ces regards qui ne se sont pas tout à fait tenus, ces provocations qui ne visaient qu’à quêter plus loin encore, comprendre, tenir, perdre pour reprendre, dans la lassitude et la blessure : la vie.</p>
+<p style="text-align: justify">L’histoire que conte cette vidéo est de celles que forment les vies, marquées par les écarts, insuffisances, connexions, éloignements et retours, trahisons et réconciliations, l’exigence de liberté, de grandeur, la tension toujours omniprésente entre la fusion et le rejet, l’union et la séparation, l’écart et l’approche. L’histoire de ces images est celle de la déchéance à laquelle s’expose l’être seul, et le miracle que constitue toute mise en rapport, toute main tendue alors que le <em>nihil</em> du solitaire appelle et quête l&rsquo;absorption. Le chemin pris pour s’offrir à l’autre, en accepter l’existence, résister au pour soi qui tous nous quête, tous nous tente à chaque instant, où l’échec point. L&rsquo;histoire que conte cette vidéo est de celles où, dans la distance, toujours, sera autorisée la renaissance d&rsquo;une envie que tout aurait dû condamner, la préservation de ces espaces où l&rsquo;irrationnel du pour-deux domine, d’en chacun la différence, seul carburant d’une identification vers le Même, où la rupture, omniprésente, se promettra de rester à tout instant de l’ordre du jeu, de cette intériorité où les limites seront poussées et recherchées, rupture rendue impossible non par ce qu’elle ne pourrait ou ne devrait intervenir, mais au contraire parce qu’omniprésente en tant que fantasmagorie, sa concrétisation déferait le sens même de l’existant, du passé et du présent, alors substituable seulement par une forme de pauvreté qui rendrait au ridicule tout son passé, réalité peut-être plus performative, mais oh combien banale, dans laquelle il faudrait fuir son mouvement pour aller, en un ailleurs indéfini, se reconstruire et combler des failles devenues communes, inéluctables.</p>
+<p style="text-align: justify">L’histoire de ces images est celle de ces histoires injugeables, impénétrables par ces extérieurs devenus inexistants dans les rapports d’emprise poussés en leur extrême, en leur radicalité la plus insoutenable : ces images sont celles que portent les amours fous, constitués dans l’irréductibilité de l’écart, l’irrationalité du rejet, la passion de l’autre et du jeu, la recherche toujours, en l&rsquo;autre, de ce qui nous fera soi. De ces histoires qui seules, hors du monde, méritent d&rsquo;être renvoyées à leur absoluité.</p>
+	</div><!-- .entry-content -->
+	
+	<footer class="entry-meta">
+					<div class="comments-link">
+				<a href="http://branco.blog.lemonde.fr/2017/06/30/le-courage-de-linfini/#comments">Un commentaire pour le moment</a>			</div><!-- .comments-link -->
+		
+			</footer><!-- .entry-meta -->
+</article><!-- #post -->
+			
+				<nav class="navigation paging-navigation" role="navigation">
+		<h1 class="screen-reader-text">Navigation des articles</h1>
+		<div class="nav-links">
+
+						<div class="nav-previous"><a href="http://branco.blog.lemonde.fr/page/2/" ><span class="meta-nav">&larr;</span> Articles plus anciens</a></div>
+			
+			
+		</div><!-- .nav-links -->
+	</nav><!-- .navigation -->
+	
+		
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+		</div><!-- #main -->
+		<footer id="colophon" class="site-footer" role="contentinfo">
+				<div id="secondary" class="sidebar-container" role="complementary">
+		<div class="widget-area">
+					<aside id="recent-posts-9" class="widget widget_recent_entries">		<h3 class="widget-title">Articles récents</h3>		<ul>
+											<li>
+					<a href="http://branco.blog.lemonde.fr/2019/01/02/macron-et-son-crepuscule/">Macron et son crépuscule</a>
+									</li>
+											<li>
+					<a href="http://branco.blog.lemonde.fr/2019/01/02/sur-un-parcours-personnel/">Sur un parcours personnel</a>
+									</li>
+											<li>
+					<a href="http://branco.blog.lemonde.fr/2018/09/25/du-monde-au-diplo-une-affaire-de-cinema/">Entre le Monde et le Diplo, deux fins du cinéma</a>
+									</li>
+											<li>
+					<a href="http://branco.blog.lemonde.fr/2018/09/05/hadopi-et-le-cinema-francais/">HADOPI et le cinéma français</a>
+									</li>
+											<li>
+					<a href="http://branco.blog.lemonde.fr/2018/04/14/sur-le-nouveau-palais-de-justice-de-batignolles/">Sur le nouveau palais de justice de Batignolles</a>
+									</li>
+					</ul>
+		</aside>		</div><!-- .widget-area -->
+	</div><!-- #secondary -->
+
+			<div class="site-info">
+								<a href="https://wordpress.org/">Fièrement propulsé par WordPress</a>
+			</div><!-- .site-info -->
+		</footer><!-- #colophon -->
+	</div><!-- #page -->
+
+	<div class="footer_lemonde">
+	<a href="http://www.lemonde.fr/" class="logo_lemonde">le monde.fr</a>
+	<p><a href="http://faq.lemonde.fr/">Aide</a> | Ce blog est édité grâce au concours de <a href="http://fr.wordpress.com/">WordPress</a></p>
+</div><script src="http://stats.wordpress.com/wpcom.js?6" type="text/javascript"></script>
+<script type="text/javascript">
+_admin = false;
+_site = "3";
+_blog = "14803";
+_user = "0";
+fzd();
+</script>
+
+<!-- Powered by WPtouch Pro: 3.8.2 --><link rel='stylesheet' id='header_abonne-css'  href='http://branco.blog.lemonde.fr/wp-content/mu-plugins/lemonde/css/abonne.css?ver=4.9.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://branco.blog.lemonde.fr/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='http://branco.blog.lemonde.fr/wp-includes/js/masonry.min.js?ver=3.3.2'></script>
+<script type='text/javascript' src='http://branco.blog.lemonde.fr/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b'></script>
+<script type='text/javascript' src='http://branco.blog.lemonde.fr/wp-content/themes/twentythirteen/js/functions.js?ver=20160717'></script>
+<script type='text/javascript' src='http://branco.blog.lemonde.fr/wp-includes/js/wp-embed.min.js?ver=4.9.1'></script>
+<!-- DEBUT Xiti -->
+<script type="text/javascript">
+    var viewPortWidth = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
+    var xtAn = '';
+    var xtAc = '';
+    var tdb_user_id;
+
+    xtsite = (viewPortWidth >= 768) ? '43260' : '489989';
+    xtn2 = '12';
+    xtpage = 'blog/branco::accueil';
+    xt_multc = '&x1=&x2=blog&x3=&x5=branco';
+
+    function atCallback() {
+        var a;
+        var element;
+
+        window.xtparam = (void 0 !== window.xtparam && null !== window.xtparam ? window.xtparam : '');
+        window.xtparam += '&ac=' + xtAc + '&an=' + xtAn + xt_multc;
+        a = document.createElement('script');
+        a.type = 'text/javascript';
+        a.async = !0;
+        a.src = 'http://s1.lemde.fr/medias/web/js/lib/xiti/4.3.001/xtcore.js';
+
+        element = (document.getElementsByTagName('head')[0] ||
+            document.getElementsByTagName('body')[0] ||
+            document.getElementsByTagName('script')[0].parentNode);
+        element.insertBefore(a, null);
+    }
+
+    function callXiti(adbStatus) {
+        xt_multc += '&x4=' + adbStatus;
+        if ('undefined' === typeof lmd || '' === lmd) {
+            atCallback();
+        } else {
+            tdb_user_id = (document.cookie.match('(^|; )tdb_user_id=([^;]*)') || 0)[2];
+            void 0 === tdb_user_id || '' === tdb_user_id ? atCallback() : require(['lmd/core/auth'], function(b) {
+                b.loadUser().done(function() {
+                    if (null !== b.user) { xtAn = 0 < b.user.id ? b.user.id : '', 'inscrit' === b.user.type ? xtAc = 'INSCRIT' : ('abonne' === b.user.type && null !== b.user.classe_abonnement && (xtAc = b.user.classe_abonnement)); }
+                    atCallback();
+                });
+            });
+        }
+        addXitiCallMarkerForKalimilog();
+    }
+
+    function addXitiCallMarkerForKalimilog()
+    {
+        if ('undefined' === typeof lmd) {
+            lmd = {
+                "context": {
+                    "page": {}
+                }
+            };
+        } else if ('undefined' === typeof lmd.context) {
+            lmd.context = {
+                "page": {}
+            };
+        } else if ('undefined' === typeof lmd.context.page) {
+            lmd.context.page = {};
+        }
+
+        lmd.context.page.xiti_call = true;
+    }
+
+    var adblockStatus = {
+        'YES' : 1,
+        'NO' : 2,
+        'NOSCRIPT' : 3,
+        'NSP' : 4
+    };
+
+    if (typeof require === 'function') {
+        require(['xitistatus'], function() {
+            'use strict';
+
+            var blockAdBlock = new BlockAdBlock({
+                checkOnLoad: false,
+                resetOnEnd: true
+            });
+
+            if (typeof blockAdBlock === 'undefined') {
+                callXiti(adblockStatus.YES);
+            }
+
+            blockAdBlock.onDetected(function() {
+                callXiti(adblockStatus.YES);
+            });
+
+            blockAdBlock.onNotDetected(function() {
+                callXiti(adblockStatus.NO);
+            });
+
+            blockAdBlock.check();
+        }, function (err) {
+            callXiti(adblockStatus.NSP);
+        });
+    } else {
+        atCallback();
+    }
+</script>
+
+<noscript>
+    <img width="1" height="1" alt="" src="http://logc2.xiti.com/hit.xiti?s=43260&s2=12&x4=3&p=blog/branco::accueil&x1=&x2=blog&x3=&x5=branco" />
+</noscript>
+<!--FIN Xiti -->
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-15394037-2']);
+_gaq.push(['_setDomainName', '.lemonde.fr']);
+_gaq.push(['_setVisitorCookieTimeout', 86400 * 30 * 13 * 1000]); // 13 months in milliseconds
+_gaq.push(['_trackPageview']);
+_gaq.push(['_trackPageLoadTime']);
+
+(function() {
+    var ga = document.createElement('script');
+    ga.type = 'text/javascript';
+    ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MS62MT"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+
+<script>
+    if (typeof Acpm === 'object') {
+        var tag = new Acpm.Tag("244044216595");
+        tag.send();
+    }
+</script>
+</body>
+</html>

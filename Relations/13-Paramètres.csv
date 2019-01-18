@@ -1,0 +1,4 @@
+!,"Quelques colorations de relations (pas utilisé pour l'instant)",,,
+"_  Personne_Parents",,width[3],line[plain],weight[10]
+"_  Personne_Membre_de",color[green],width[1],line[dashed],
+"_ Media_actionnaires",color[black],width[3],line[plain],weight[10]
