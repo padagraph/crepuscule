@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+        PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <title>{% block title %}{{ title }}{% endblock %}</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='semui/semantic.min.css') }}"/>
+    <script type="application/javascript" src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="  crossorigin="anonymous"></script>
+    <script type="application/javascript" src="{{ url_for('static', filename='semui/semantic.min.js') }}"></script>
+    <script type="application/javascript" src="https://d3js.org/d3.v5.min.js"></script>
+    {% block headers %}{% endblock %}
+</head>
+<body>
+
+{% block menu %}
+<div class="ui stackable menu">
+    <div class="ui container">
+        <a href="#" class="header item">
+            Crépuscule
+        </a>
+        <a href="#" class="item">Accueil</a>
+        <div class="ui simple dropdown item">
+            <b>Participer</b><i class="dropdown icon"></i>
+            <div class="menu">
+                <a href="#" class="disabled item">Proposer</a>
+                <a href="#" class="disabled item">Voter</a>
+                <a href="#" class="disabled item">Explorer</a>
+
+            </div>
+        </div>
+
+        <a href="#" class="item">Qu'est-ce que c'est ?</a>
+        <a href="#" class="item">Presse/Actu</a>
+        <a href="#" class="item">Contact</a>
+
+         <div class="ui simple dropdown item">
+            <div class="menu">
+
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+
+<div class="ui main text container" style="margin-top: 7em;">
+    {% block mainzone %}
+
+    {% endblock %}
+</div>
+
+
+
+
+{% block footer %}
+<div class="ui hidden divider"></div>
+<div class="ui inverted vertical footer segment">
+    <div class="ui container">
+      <div class="ui stackable inverted divided equal height stackable grid">
+        <div class="three wide column">
+          <h4 class="ui inverted header">À propos</h4>
+          <div class="ui inverted link list">
+
+              <a href="#" class="item"></a>
+
+          </div>
+        </div>
+        <div class="three wide column">
+          <h4 class="ui inverted header">Comment ça marche ?</h4>
+          <div class="ui inverted link list">
+                <a href="#" class="item">Code Source</a>
+
+          </div>
+        </div>
+        <div class="seven wide column">
+          <h4 class="ui inverted header"></h4>
+          <p></p>
+        </div>
+      </div>
+    </div>
+  </div>
+{% endblock %}
+
+
+{% block script %}
+<script type="module">
+    import Main from "{{ url_for('static', filename="main.js") }}"
+    const data = {{ data|tojson }}
+    let app = new Main()
+</script>
+{% endblock %}
+
+
+
+
+</body>
+</html>
