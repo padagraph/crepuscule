@@ -1,0 +1,507 @@
+
+! https://hackmd.io/2IuIeln8RtWv2pNWCf2W5A 
+
+
+! https://hackmd.io/2IuIeln8RtWv2pNWCf2W5A 
+
+! Crepuscule tente de représenter les conflits d'intérêts
+! mis en évidence par l'écrit "Crépuscule" de Juan Branco.
+! Enlever le “!” avant le & pour les afficher dans le graphe
+! @ Structures
+! @ Evénements 
+! _ Relations
+! _ Paramètres de relations réifiées
+! @ Personnes
+
+
+! https://calc.padagraph.io/crepuscule-medias 
+
+"!,",,,,,,,,,,,,
+"@Media: #label",%+Propriétaire,%+boss,%+actionnaires,%+investisseurs,%+salarié⋅es,+Pages,image,shape[square],size[0.5],Nom,+Autres_sources,
+Mediapart,,,,,Mauduit,,https://www.mediapart.fr/images/social/800/mediapart.png,,,Mediapart,https://www.liberation.fr/checknews/2017/10/02/est-ce-que-xavier-niel-est-un-actionnaire-de-mediapart_1652506,
+Esprit,,,,,,,https://esprit.presse.fr/img/logo.png,,,Esprit,,
+Le_1,,,Hermand,,,,https://upload.wikimedia.org/wikipedia/fr/thumb/2/21/Le_1_logo.svg/langfr-100px-Le_1_logo.svg.png,,,"Le 1",,
+Paris_Match,Lagardère,,,,,16,,,,"Paris Match",,
+Grasset,Hachette,,,,,17,,,,Grasset,,
+Hachette_Livre,Lagardère,"Khiroun, Ferran",,,,"17, 51",,,,Hachette_Livre,,
+Lagardère,,Lagardère_A,,,,17,,,,Lagardère,,
+Bestimage,,Mimi,,,,18,,,,Bestimage,,
+FranceTV,,,,,"Ernotte, Delahousse",,,,,FranceTV,,
+Libération,Drahi,,,,Joffrin,34,,,,Libération,,
+Marianne,Kretinsky,,,,,34,,,,Marianne,,
+Le_Monde,LML,Dreyfus,,Kretinsky,,"34, 42",,,,"Le Monde",,
+Elle,,,,Kretinsky,,34,,,,Elle,,
+Le_Parisien,LVMH,,,,,40,,,,"Le Parisien",,
+Les_Echos,LVMH,,,,,40,,,,"Les Echos",,
+La_Tribune,,,,LVMH,,40,,,,"La Tribune",https://fr.wikipedia.org/wiki/La_Tribune_(France),
+Le_Figaro,GIMD,Dassault_O,,,,"41, 49",,,,"Le Figaro",,
+LObs,LML,Dreyfus,,,,42,,,,L'Obs,https://www.monde-diplomatique.fr/cartes/PPA#&gid=1&pid=1,
+Les_Inrockuptibles,LNEI,Dreyfus,,,,42,,,,"Les inrockuptibles",https://www.monde-diplomatique.fr/cartes/PPA#&gid=1&pid=1,
+BFMTV,NextRadioTV,,,,,49,,,,"BFM TV",https://www.monde-diplomatique.fr/cartes/PPA#&gid=1&pid=1,
+LExpress,Altice,,,,,49,,,,L'Express,https://www.monde-diplomatique.fr/cartes/PPA#&gid=1&pid=1,
+Télérama,LML,,,,,49,,,,Télérama,https://www.monde-diplomatique.fr/cartes/PPA#&gid=1&pid=1,
+RadioFrance,,Veil,,,,49,,,,"Radio France",,
+Vanity_Fair,,,,,,49,,,,"Vanity Fair",,
+Canal_Plus,Vivendi,,,,,49,,,,"Canal +",https://www.monde-diplomatique.fr/cartes/PPA#&gid=1&pid=1," "
+C8,Vivendi,,,,,49,,,,C8,https://www.monde-diplomatique.fr/cartes/PPA#&gid=1&pid=1,
+TF1,,,Bouygues,,,50,,,,TF1,https://www.monde-diplomatique.fr/cartes/PPA#&gid=1&pid=1,
+TMC,,,Bouygues,,,50,,,,TMC,https://www.monde-diplomatique.fr/cartes/PPA#&gid=1&pid=1,
+JDD,Lagardère,,,,,50,,,,"Journal du dimanche",https://www.monde-diplomatique.fr/cartes/PPA#&gid=1&pid=1,
+Le_Point,Artemis,,,,,,,,,"Le Point",https://www.monde-diplomatique.fr/cartes/PPA#&gid=1&pid=1,
+Europe1,Lagardère,,,,,51,,,,"Europe 1",https://www.monde-diplomatique.fr/cartes/PPA#&gid=1&pid=1,
+NextRadioTV,Altice,Weill,,,,51,,,,,https://www.monde-diplomatique.fr/cartes/PPA#&gid=1&pid=1,
+,,,,,,51,,,,,,
+M6,Groupe_M6,,,,,,,,,M6,,
+Groupe_M6,,,,,,,,,,,,
+RTL,Groupe_M6,,,,,51,,,,,,
+Grasset,Lagardère,,,,,51,,,,"Éditions Grasset",https://fr.wikipedia.org/wiki/A13%89ditions_Grasset,
+Gallimard,Madrigall,,,,,,,,,,,
+Madrigall,,,LVMH,,,51,,,,"Groupe Madrigall",https://web.archive.org/web/20170321135229/https://www.lemonde.fr/livres/article/2013/10/30/lvmh-s-invite-au-capital-de-gallimard_3505316_3260.html,
+Flammarion,Madrigall,,,,,51,,,,Flammarion,https://fr.wikipedia.org/wiki/Groupe_Madrigall,
+Casterman,Madrigall,,,,,,,,,Casterman,https://fr.wikipedia.org/wiki/Groupe_Madrigall,
+Actes_Sud,,Nyssen,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+
+
+! https://calc.padagraph.io/crepuscule-entreprises 
+
+"!,",,,,,,,,,,,,
+"@Entreprise: #label",%+boss,"+membres CA",%+salarié⋅es,%+actionnaires,%+fondateurs,%+Maison_mere,image,shape[square],size[0.5],nom,+pages,+Autres_sources
+Altice,Drahi,,,,,,http://altice.net/sites/all/themes/zen_altice/logo.png,,,Altice,,
+Altice_Media_Group,Mourad,,,,,Altice,,,,"Altice Media Group",,https://fr.wikipedia.org/wiki/Altice_Europe
+AREVA,,,,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_Areva.svg/220px-Logo_Areva.svg.png,,,AREVA,,
+Bank_of_America,Mourad,,,,,,,,,"Bank of America",49,
+Boussac,Arnault_B,,,,,LVMH,,,,,,
+Bouygues,Bouygues_M,,,,,,,,,Bouygues,,
+Carrefour,,,Brouaux,Arnault_B,,,,,,,,
+Dassault_Systèmes,,,Pénicaud,,,GIMD,,,,"Dassault Systèmes",,https://fr.wikipedia.org/wiki/Muriel_PA13%A9nicaud
+Free,Niel,,,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Free_logo.svg/1280px-Free_logo.svg.png,,,Free,,
+GIMD,"Dassault_S, Dassault_M",,,,,,,,,"Groupe Dassault",,
+Groupe_Bolloré,Bolloré_V,,,,,,,,,"Groupe Bolloré",,
+Havas,"Fouks, Bolloré_Y",,"Brouaux, Ribault",,,Vivendi,https://global.admin-na.havasww.com/wp-content/themes/havas/images/logo-white.png,,,Havas,,https://fr.wikipedia.org/wiki/Havas
+Kyrnos_Conseil,Squarcini,,,,,,,,,"Kyrnos Conseil",,https://web.archive.org/web/20150323225316/https://www.societe.com/societe/kyrnos-conseil-791518327.html
+Lagardère,Lagardère_A,,,,,,https://img1.telestar.fr/var/telestar/storage/images/3/1/5/2/3152934/lagardere-active_width1024.jpg,,,Lagardère,,
+Lagardère_Active,Khiroun,,,,,Lagardère,,,,Lagardère_Active,17,
+LML,"Niel, Pigasse",,,,,,,,,"Le Monde libre",41,
+LNEI,Pigasse,,,,,,,,,,,https://www.monde-diplomatique.fr/cartes/PPA#&gid=1&pid=1
+Louis_Vuitton,Arnault_D,,,,,LVMH,,,,"Louis Vuitton",,https://fr.wikipedia.org/wiki/Louis_Vuitton
+LVMH,Arnault_B,Arnault_D,Squarcini,,,,https://byo-group.com/wp-content/uploads/2016/11/lvmh.jpg,,,LVMH,44,
+Rothschild,,,,,,,,,,Rothschild,,
+SFR,Drahi,,,,,Altice,,,,,,https://fr.wikipedia.org/wiki/SFR
+Tag_Heuer,,,Arnault_F,,,LVMH,,,,"Tag Heuer",,https://fr.wikipedia.org/wiki/TAG_Heuer
+Vivendi,Bolloré_Y,,,Groupe_Bolloré,,,,,,Vivendi,,https://fr.wikipedia.org/wiki/Vivendi
+Artemis,Pinault,,,,,,,,,Artemis,,
+Mediawan,,,,,"Niel, Pigasse",,,,,Mediawan,,https://fr.wikipedia.org/wiki/Mediawan
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+
+
+! https://calc.padagraph.io/crepuscule-organisations 
+
+"!,",,,,
+"@PartiAsso: #id",image,shape[square],size[0.5],label
+UMP,https://upload.wikimedia.org/wikipedia/fr/thumb/9/90/Logo_de_l%27UMP.svg/1200px-Logo_de_l%27UMP.svg.png,,,UMP
+LREM,https://upload.wikimedia.org/wikipedia/commons/3/34/En_marche_logo.png,,,"En Marche"
+Teach_for_France,http://www.sciencespo.fr/public/sites/sciencespo.fr.public/files/TFF_1.jpg,,,Teach
+Institut_Montaigne,http://www.entreprise.news/wp-content/uploads/2016/04/Institut-Montaigne.jpg,,,Montaigne
+Fondation_Jean-Jaurès,https://jean-jaures.org/sites/all/themes/fjj/img/logo_long.png,,,"Jean Jaurès"
+Terra_Nova,https://upload.wikimedia.org/wikipedia/fr/4/4e/Terra_Nova_logo.png,,,"Terra Nova"
+PS,,,,"Parti Socialiste"
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+
+
+! https://calc.padagraph.io/crepuscule-universites 
+
+"!,",,,,,
+"@Ecole: #id",image,+direction,size[0.5],label,shape[square]
+HEC,,,,HEC,
+Science_Po,https://www.sciencespo.fr/sites/all/themes/SPresponsive/images/ScPo-logo-rouge-400.png,,,"Science Po",
+ENA,,,,ENA,
+ESSEC,,Blanquer(2013-2017),,ESSEC,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+
+
+! https://calc.padagraph.io/crepuscule-fonction-publique 
+
+"!,",,,,
+"@Fonction_Publique: #id",image,shape[square],size[0.5],label
+
+
+! https://calc.padagraph.io/crepuscule-evenements 
+
+"!,",,,,,,,
+@Evenements:#label,Lieu,Date,"%+Personnes impliquées",Pages,"Commentaire libre",shape[diamond],size[0.5]
+Inauguration_LV,Ritz,,"Arnault_B, Arnault_D, Niel",25,"directeurs de rédaction",,0.5
+Diner_d'état,,,"Trump, Arnault_B, Macron",34,,,
+
+
+! https://calc.padagraph.io/crepuscule-judiciaire 
+
+"!,",,,,,,,,,,
+"@Affaire: #label",%+Principaux_accusés,%+Acteurs_secondaires,%+Juges,%+Avocats,+Années,+Résultat,+Pages,+Sources,shape[diamond],size[0.5]
+
+
+! https://calc.padagraph.io/crepuscule-business 
+
+"!,",,,,,,,,,,,,
+"@Business: #label",%+Acteurs_principaux,%+Acteurs_secondaires,+Nature,+Années,Montant,+Pages,+Sources,shape[diamond],size[0.5],Nom,extraits,video
+"Gestion de fortune","Macron, Lagardère_A, Rothschild",,"Gestion de fortune",,,6,,triangle,0.5,Macron-Lagardère,,
+Rachat_Libé_SFR,"Hollande, Drahi",,,,,34,"	M.	Drahi	avait	racheté	Libération	sur	demande	de	M.	Hollande	– demande	relayée	par	M.	Macron	– pour	se	voir	autoriser	au	rachat	de	SFR,	avant	de	nommer	son	ami	et	plume	Laurent	Joffrin	à	la	tête	de	sa	rédaction.	 Cela,	ce	n’est	pas	nous	qui	le	racontons.	C’est	l’homme	de	main	 de	M.	Drahi,	Bernard	Mourad,	intime	de	M.	Macron,	dans	le	Vanity	Fair de	décembre	2018,	qui	expose	sans	se	gêner	les	modalités	 de	 constitution	 d’une	 oligarchie,	 un	milliardaire	 trouvant	appui	en	un	Président	contre	le	fait	de	mettre	à	son	service	 un	média	racheté	pour	cela.		Le	tout,	sans	gêne	ni	questions8.	 Sans	indignation. _Crépuscule_",,,,,
+"Rachat Boussac","Arnault_B, Fabius",,,1984,,38,,,,,,
+"Rachat parts Pigasse","Kretinsky, Pigasse",Le_Monde,"rachat de parts de Pigasse du Monde, et publication enquête dans Le Monde",,,41,,,,,,
+"Monsieur sécurité","LVMH, Kyrnos_Conseil",,"LVMH 1er client de Kyrnos",,,,https://web.archive.org/web/20150323225316/https://www.societe.com/societe/kyrnos-conseil-791518327.html,,,,,
+Habillage,"Trogneux-Macron, LVMH",,"Prêt de vêtements",,,44,"Pour les évènements officiels, Brigitte Macron se fait prêter ses tenues par le groupe LVMH. Son entourage assure que les vêtements sont systématiquement rendus. (closer 23 03 17)   https://www.closermag.fr/mode/polemique-brigitte-macron-s-habille-gratuitement-chez-lvmh-710742",,,,,
+"Comm ministre économie","Macron, Havas",,,,,49,,,,,,
+M6_Mediawan,"Groupe_M6, Mediawan",,partenariat,,,51,,,,,,
+
+
+! https://calc.padagraph.io/crepuscule-relations 
+
+"!,",,,,,Importance,,,,,,"Propriétés des  relations dans le graphe",,
+_Relation,,,"label[en relation avec]",+via,weight[1],width[1],+Année,+pages,extraits,+sources,color[grey],width[1],line[plain]
+Macron,->,Delahousse,"a soutenu",France2,0.2,,,19,,,,,
+Niel,--,Mimi,,Toby,1,,,"9, 10",,,,,
+Hidalgo,--,Missika,,Niel,1,,,"13, 14",,,,,
+Khiroun,->,Macron,"mis à disposition de",Lagardère_A,1,,,16,"Mis à disposition pour sa communication",,,,
+Valls,--,Dassault_O,,Dassault_S,1,,,41,"dont on sait quels accords il tissa avec un autre homme politique, M. Valls",,,,
+Macron,--,Kyrnos_Conseil,,Arnault_B,1,,,44,"Bernard  Arnault donc, a mis au service du Macron candidat son appareil de sécurité -> pas si clair",,,,
+Macron,--,Mimi,,Niel,1,,,44,"pour compléter la protection que lui offrait médiatiquement, via son gendre Xavier Niel, Michèle Marchand.",,,,
+Macron,--,Neil,,Arnault_B,1,,,44,"via Arnault_D",,,,
+Trogneux-Macron,->,Arnault_B,"prof de",Arnault_F,1,,,44,"Trogneux-Macron prof de Arnault_F",,,,
+Hollande,--,Drahi,,"Macron, Mourad",1,,,49,,,,,
+Macron,--,Veil,,ENA,1,,,49," promotion Léopold Sédar Senghor (2004)",https://fr.wikipedia.org/wiki/Sibyle_Veil,,,
+Macron,--,Arnault_B,"intime de",,1,6,,,,,,,
+Drahi,--,Joffrin,"intime de",,1,6,,,,,,,
+Mourad,->,Macron,"travaille pour",,1,,,"34, 49","A vérifier",,,,
+Mourad,->,Drahi,"travaille pour",,1,,,"34, 49","A vérifier",,,,
+Mourad,--,Macron,"intime de, grand ami",,1,6,,"34, 49, 51","A vérifier",,,,
+Trogneux-Macron,--,Arnault_B,"intime de",,1,6,,"37, 45","A vérifier",,,,
+Trogneux-Macron,--,Mimi,"intime de",,1,6,,"37, 45","A vérifier",,,,
+Mimi,->,Arnault_B,"travaille pour",,1,,,37,"A vérifier",,,,
+Dreyfus,->,Neil,"travaille pour",,1,,,42,"A vérifier",,,,
+Khiroun,->,Lagardère_A,"travaille pour",,1,,,,,,,,
+Dassault_S,->,Valls,"a soutenu",,1,,,41,,http://www.lefigaro.fr/flash-actu/2012/09/10/97001-20120910FILWWW00681-dassault-soutient-publiquement-valls.php,,,
+Khiroun,->,Mimi,"a soutenu",,1,,,51,"Ramzy Khiroun /.../ est intervenu pour protéger Mimi Marchand à Paris Match",,,,
+Gallimard,->,Lebrun,censure,,1,,,51,"Ils	viennent	de	censurer	Annie	Lebrun,	auteur	historique	 de	 la	 maison,	 parce	 qu’elle	 critiquait	 LVMH	 dans	 son	 dernier	ouvrage	sur	la	mode.",,,,
+Macron,->,Nyssen,"nomme ministre",,1,,,,,,,,
+
+
+! https://calc.padagraph.io/crepuscule-financements 
+
+"!,",,,,,,,,
+_a_financé,,,Année,"Montant (Millier d'€)",+Pages,+Autres_sources,weight[1],Extrait
+Niel,->,Mediapart,,100,,Libération<https://www.liberation.fr/checknews/2017/10/02/est-ce-que-xavier-niel-est-un-actionnaire-de-mediapart_1652506>,0.1,
+Arnault_B,->,Vanity_Fair,,,49,,1,"'/Vanity Fair/ coulerait immédiatement si /Arnault_B/ cessait de le financer"
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+
+
+! https://calc.padagraph.io/crepuscule-parametres 
+
+!,"Quelques propriétés des  relations dans le graphe (pas utilisé pour l'instant)",,,
+"_  Personne/Union",color[green],width[3],line[plain],weight[1]
+"_  Personne/Filiation",color[green],width[3],line[plain],weight[1]
+"_  Personne/Membre_de",color[red],width[2],line[dashed],weight[1]
+"_ Media/actionnaires",color[blue],width[2],line[dashed],weight[1]
+"_ Entreprise/actionnaires",color[black],width[1],line[dashed],weight[1]
+"_ Entreprise/salarié⋅es",color[black],width[2],line[dashed],weight[1]
+"_ Entreprise/boss",color[black],width[3],line[plain],weight[1]
+
+
+! https://calc.padagraph.io/crepuscule-personnes 
+
+"!,",,,,Ecoles,"Fonction Publique",Assos/Partis,Parents,,,,,,"Capital / revenus",,,,
+"@Personne: #id",+Noms,+Prénoms,+Adresses,%+Cursus,+postes,%+Membre_de,%+Filiation,%+Union,%+avocats,image,+Pages,+Autres_sources,rang_fortune,fortune,salaire,source_capital,wikipedia
+Arnault_B,Arnault,Bernard,,,,,Arnault_D,,,https://secure-journal.hautehorlogerie.org/wp-content/uploads/2016/04/fhhmag_slideshow_003858-001.jpg,,,,,,,
+Arnault_D,Arnault,Delphine,,,,,Arnault_B,Niel,,https://gw.geneanet.org/public/img/media/deposits/cc/f0/4045224/medium.jpg?t=1449654704,,,,,,,
+Arnault_F,Arnault,Frédéric,,,,,"Arnault_B, Arnault_D",,,,,https://web.archive.org/web/20181004194022/https://www.nytimes.com/2018/10/01/fashion/frederic-arnault-tag-heuer-lvmh.html,,,,,
+Attal_G,Attal,Gabriel,,,"Député (2017-2018), Secrétaire d'État Éducation (2018-)",LREM,Attal_Y✝,Séjourné,,http://s1.lprs1.fr/images/2017/06/19/7067613_4a09f596-54fb-11e7-9740-47c1f9c85791-1_1000x625.jpg,,,,,,,
+Attal_Y✝,Attal✝,Yves,,,,,Attal_G,,,https://www.raal.be/wp-content/uploads/2017/06/anonyme.png,,,,,,,
+Attali,Attali,Jacques,,,,,,,,https://www.babelio.com/users/AVT_Jacques-Attali_7181.jpg,,,,,,,
+Bacqué,Bacqué,Raphaëlle,,,,,,,,https://images1.livreshebdo.fr/sites/default/files/assets/images/r.bacque10annieassouline.jpg,,,,,,,
+Barbizet,Barbizet,Patricia,,,,,,,,https://images.lesechos.fr/archives/2017/LesEchos/22583/ECH22583116_1.jpg,,,,,,,
+Benalla,Benalla,Alexandre,,,,,,,,https://www.intelli.news/wp-content/uploads/2019/01/le-mensonge-de-la-femme-dAlexandre-Benalla.jpg,,,,,,,
+Bigorgne,Bigorgne,Laurent,,,,,Descoings✝,,,https://www.rencontrescapitales.com/wp-content/uploads/2017/02/bigorgne-laurent-e1488368692753.jpg,,,,,,,
+Blanquer,Blanquer,Jean-Michel,,,"Ministre education (2017-)",LREM,,,,https://img.aws.la-croix.com/2017/09/04/1200874114/ministre-leducation-nationale-Jean-Michel-Blanquer_0_729_486.jpg,,,,,,,
+Bolloré_V,Bolloré,Vincent,,,,,,,,"https://resize-parismatch.ladmedia.fr/r/625,417,center-middle,ffffff/img/var/news/storage/images/paris-match/culture/medias/complement-d-enquete-bollore-demande-50-millions-d-euros-a-france-televisions-1486808/24349658-1-fre-FR/Complement-d-enquete-Bollore-demande-50-millions-d-euros-a-France-Televisions.jpg",,,,,,,
+Bolloré_Y,Bolloré,Yannick,,,,,Bolloré_V,Bouygues_C,,,,https://fr.wikipedia.org/wiki/Yannick_Bolloré,,,,,
+Bouygues_C,Bouygues,Chloé,,,,,Bouygues_M,,,,,,,,,,
+Bouygues_M,Bouygues,Martin,,,,,,,,,,,,,,,
+Brouaux,"Brouaux Mauduit",Marie-Noëlle,,,,,Mauduit,,,https://www.lsa-conso.fr/mediatheque/3/0/2/000015203_103.jpg,,,,,,,
+Chabre,Chabre,Edith,,,,,Philippe,,,http://i.f1g.fr/media/ext/1200x1200/madame.lefigaro.fr/sites/default/files/img/2017/05/edith-chabre-femme-edouard-philippe-premier-ministre.jpg,,,,,,,
+Chaker,Chaker,Ludovic,,,,LREM,,,,https://i1.wp.com/www.taiwanmag.net/wp-content/uploads/2012/05/ludovic-chaker.jpg,,,,,,,
+Dassault_L,Dassault,Laurent,,,,,Dassault_S,,,,,,,,,,
+Dassault_S,Dassault,Serge,,,,,Dassault_L,,,,,,,,,,
+Dassault_O,Dassault,Olivier,,,,,"Dassault_S, Dassault_L",,,,,,,,,,
+De_Warren,"De Warren",Judith,,,,,Jouyet,,,https://media.licdn.com/dms/image/C5103AQF9xV5MElOYyA/profile-displayphoto-shrink_200_200/0?e=1547683200&v=beta&t=FFMIIAlTQvUtD1GA4A6O9HXFDLEMRwqen5mzM1hyVPM,,,,,,,
+Delahousse,Delahousse,Laurent,,,,,,,,http://static1.ozap.com/people/0/72/0/@/4455188-laurent-delahousse-entity_default-1.jpg,,,,,,,
+Descoings✝,Descoings✝,Richard,,,,,"Marik-Descoings, Pepy",,,http://www.sciencespo.fr/stories/assets/media/image/Portrait_Richard_Descoings.jpg,,,,,,,
+Drahi,Drahi,Patrick,,,,,,,,https://medias.liberation.fr/photo/887191-000_bm6cw.jpg?modified_at=1466597020&width=960,,,,,,,
+Dreyfus,Dreyfus,Louis,,,,,,,,,42,,,,,,
+Emelien,Emelien,Ismaël,,,,LREM,,Ribault,,https://www.challenges.fr/assets/img/2017/04/30/images_list-r4x3w1000-5905e8aa573f9-ismae-l-emelien.jpg,,,,,,,
+Endeweld,Endeweld,Marc,,,,,,,,,,,,,,,
+Ernotte,Ernotte,Delphine,,,,,,,,https://pbs.twimg.com/profile_images/636518691472023552/eofDUBhm_400x400.jpg,,,,,,,
+Fabius,Fabius,Laurent,,,,PS,,,,,,,,,,,
+Finchelstein,Finchelstein,Gilles,,,,Fondation_Jean-Jaurès,,,,https://static.ladepeche.fr/content/media/image/zoom/2016/03/09/201603091231-full.jpg,,,,,,,
+Gassier-Weill,Gassier-Weill,Catherine,,,,,Weill,,,http://www.yb-consulting.fr/wp/wp-content/uploads/2016/12/portrait3.png,,,,,,,
+Girard,Girard,Christophe,,,,,,,,https://www.telerama.fr/sites/tr_master/files/styles/simplecrop1000/public/maxpeoplefrfour303273_0_0.jpg,,,,,,,
+Griveaux,Griveaux,Benjamin,,,,LREM,,,,"https://resize-parismatch.ladmedia.fr/r/625,417,center-middle,ffffff/img/var/news/storage/images/paris-match/actu/politique/grand-debat-jouanno-doit-tirer-les-enseignements-de-son-retrait-selon-griveaux-1598883/25900932-1-fre-FR/Grand-debat-Jouanno-doit-tirer-les-enseignements-de-son-retrait-selon-Griveaux.jpg",,,,,,,
+Hermand,Hermand,Henry,,,,,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Henry_Hermand.JPG/260px-Henry_Hermand.JPG,,,,,,,
+Hidalgo,Hidalgo,Anne,,,,PS,,,,https://pbs.twimg.com/profile_images/1026063030428344320/FxlsK6Kd_400x400.jpg,,,,,,,
+Hollande,Hollande,François,,,,PS,,,,https://upload.wikimedia.org/wikipedia/commons/0/05/Francois_Hollande_2015.jpeg,,,,,,,
+Joffrin,Joffrin,Laurent,,,,,,,,http://static1.ozap.com/people/2/41/95/82/@/756876-laurent-joffrin-entity_default-1.jpg,,,,,,,
+Jouyet,Jouyet,Jean-Pierre,,,,,Taittinger-Jouyet,,,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/M_JOUYET_08_AMF_2009.JPG/220px-M_JOUYET_08_AMF_2009.JPG,,,,,,,
+Khiroun,Khiroun,Ramzy,,,,,,,,https://img.20mn.fr/O2G6C5TgTZeSlzMDMDJSSQ/310x190_conseiller-communication-ramzi-khiroun-3-juin-2013-paris.jpg,,,,,,,
+Kretinsky,Kretinsky,Daniel,,,,,,,,https://www.lepoint.fr/images/2018/10/20/17395640lpw-17395639-article-jpg_5660995.jpg,,,,,,,
+Lagardère_A,Lagardère,Arnaud,,,,,,,,https://www.challenges.fr/assets/img/2015/07/30/cover-r4x3w1000-58245972317ce-lagardere-releve-son-objectif-de-resultat-operationnel.jpg,,,,,,,
+Le_Drian_JY,"Le Drian",Jean-Yves,,,,PS,Le_Drian_T,,,https://www.tourmag.com/photo/art/grande/14058434-20153998.jpg?v=1496044791,,,,,,,
+Le_Drian_T,"Le Drian",Thomas,,,,,Le_Drian_JY,,,https://pbs.twimg.com/profile_images/974332900756918273/S0AHkrFJ.jpg,,,,,,,
+Lebrun,Lebrun,Annie,,,,,,,,https://upload.wikimedia.org/wikipedia/commons/b/bf/Annie_Le_Brun_2009.jpg,,,,,,,
+Lecornu,Lecornu,Sébastien,,,,LREM,,,,https://static.actu.fr/uploads/2018/10/Lecornu-dA13%A9partement.jpg,,,,,,,
+Levy,Levy,Maurice,,,,,,,,https://www.challenges.fr/assets/img/2017/05/04/cover-r4x3w1000-5b48a133b0d28-levy-afp.jpg,,,,,,,
+*Macron,Macron,Emmanuel,,,,LREM,,Trogneux-Macron,,https://upload.wikimedia.org/wikipedia/commons/e/e3/Emmanuel_Macron_in_Tallinn_Digital_Summit._Welcome_dinner_hosted_by_HE_Donald_Tusk._Handshake_%2836669381364%29_%28cropped_2%29.jpg,,,,,,,
+Marik-Descoings,Marik-Descoings,Nadia,,,,,Descoings✝,,,http://www.sciencespo.fr/newsletter/newsletter_archive/2013/04/920/img/5-NM_008.jpg,,,,,,,
+Mauduit,Mauduit,Laurent,,,,,Brouaux,,,https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Mauduit.png/260px-Mauduit.png,,"https://www.liberation.fr/checknews/2017/10/02/est-ce-que-xavier-niel-est-un-actionnaire-de-mediapart_1652506  , https://www.youtube.com/watch?v=2mO0DN3tsAs&t=579s ",,,,,
+Mimi,Marchand,"Michèle (dit Mimi)",,,,,,,Toby,"https://static.lexpress.fr/medias_11901/w_1696,h_949,c_crop,x_352,y_75/w_480,h_270,c_fill,g_north/v1537962381/mimi-marchand_6093537.jpg",37,,,,,,
+Missika,Missika,Jean-Louis,,,,,,,,https://images.lesechos.fr/archives/2017/LesEchos/22403/ECH22403513_1.jpg,,,,,,,
+Mourad,Mourad,Bernard,,,,LREM,,,,https://www.challenges.fr/assets/img/2016/10/04/cover-r4x3w1000-57f3b622ed8fb-Mourad.jpg,"34, 49",https://fr.wikipedia.org/wiki/Bernard_Mourad,,,,,
+Niel,Niel,Xavier,,,,,,Arnault_D,Toby,https://upload.wikimedia.org/wikipedia/commons/4/4f/Xavier_Niel.jpg,,,,,,,
+Padis,Padis,Marc-Olivier,,,,Esprit,,,,https://img.aws.la-croix.com/2016/12/15/1100810900/Marc-Olivier-Padis_0_730_356.jpg,,,,,,,
+Pepy,Pepy,Guillaume,,,,,,,,https://cap.img.pmdstatic.net/fit/https.3A.2F.2Fphoto.2Ecapital.2Efr.2Fupload.2Fslideshow.2Fguillaume-pepy-l-etonnant-parcours-du-patron-de-la-sncf-22672.2Fguillaume-pepy-le-patron-aux-commandes-de-la-sncf-398511.2Ejpg/760x600/quality/65/guillaume-pepy-le-patron-aux-commandes-de-la-sncf.jpg,,,,,,,
+Philippe,Philippe,Edouard,,,,"UMP, LREM",Chabre,,,https://cdn.radiofrance.fr/s3/cruiser-production/2017/05/ddc8681e-7fa9-458b-a622-ecfff29bf116/640_rtx35yvi.jpg,,,,,,,https://fr.wikipedia.org/wiki/A13%89douard_Philippe
+Pigasse,Pigasse,Matthieu,,,,,,,,,,https://fr.wikipedia.org/wiki/Le_Monde_libre,,,,,
+Pénicaud,Pénicaud,Muriel,,,,LREM,,,,"https://resize-parismatch.ladmedia.fr/r/625,417,center-middle,ffffff/img/var/news/storage/images/paris-match/actu/politique/qui-est-muriel-penicaud-la-nouvelle-ministre-du-travail-1259570/21130982-1-fre-FR/Qui-est-Muriel-Penicaud-la-nouvelle-ministre-du-Travail.jpg",,,,,,,
+Ribault,Ribault,Hélène,,,,,Emelien,,,https://www.ladn.eu/wp-content/uploads/2016/07/actu_24923_vignette.png,,,,,,,
+Sarkozy,Sarkozy,Nicolas,,,,UMP,,,,https://upload.wikimedia.org/wikipedia/commons/d/d7/Flickr_-_europeanpeoplesparty_-_EPP_Summit_October_2010_%28105%29.jpg,,,,,,,
+Squarcini,Squarcini,Bernard,,,,,,,,https://dirigeants-entreprise.com/images/t5385-800-800-50.jpg,,,,,,,
+Séjourné,Séjourné,Stéphane,,,,LREM,,Attal_G,,https://pbs.twimg.com/profile_images/685166040481935360/HmWec7VL_400x400.jpg,,,,,,,
+Taittinger-Jouyet,Taittinger-Jouyet,Brigitte,,,,,Jouyet,,,https://suez.azureedge.net/-/media/SUEZ-GLOBAL/Images/Person/Brigitte-Taittinger-Jouyet.jpg,,,,,,,
+Tertrais,Tertrais,Bruno,,,,,,,,https://pbs.twimg.com/profile_images/804956361155112960/gs0SZzPY_400x400.jpg,,,,,,,
+Toby,Toby,Caroline,,,,,,,,https://www.lemondedudroit.fr/images/stories/01-PEOPLE/caroline_toby.jpg,,,,,,,
+Trogneux-Macron,Trogneux-Macron,Brigitte,,,,,,Macron,,https://voi.img.pmdstatic.net/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2Fvoi.2F2019.2F01.2F05.2Fede92e8e-e378-4f5a-9bab-2a33376013b2.2Ejpeg/440x247/quality/80/video-brigitte-macron-ce-qu-elle-pense-reellement-du-palais-de-l-elysee.jpg,"37, 45",,,,,,
+Trump,Trump,Donald,,,,,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/220px-Donald_Trump_official_portrait.jpg,,,,,,,
+Valls,Valls,Manuel,,,,PS,,,,,,,,,,,
+Van_Ruymbeke,"Van Ruymbeke",Renaud,,,,,,,,https://www.babelio.com/users/AVT_Renaud-Van-Ruymbeke_2121.jpeg,,,,,,,
+Veil,Veil,Sibyle,,,,,,,,,49,,,,,,
+Wargon,Wargon,Emmanuelle,,,,,,,,https://www.challenges.fr/assets/img/2018/10/16/cover-r4x3w1000-5bc600e4af3db-sipa-00700438-000040.jpg,,,,,,,
+Weill,Weill,Alain,,,,,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Alain_Weill_2008.JPG/290px-Alain_Weill_2008.JPG,,,,,,,
+Pinault,Pinault,François-Henry,,,,,,,,,,,,,,,
+Ferran,Ferran,Stéphanie,,,,,,,,,,,,,,,
+Nyssen,Nyssen,Françoise,,,"Ministre de la culture (2017-2018)",,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,

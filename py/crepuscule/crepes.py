@@ -8,7 +8,7 @@ from elasticsearch_dsl.connections import connections
 
 connections.create_connection(hosts=['localhost'])
 INDEX_NAME="crepuscule"
-
+PAGE_BREAK = "\u000c"
 
 from uuid import uuid4
 def uuid():
@@ -18,8 +18,9 @@ def uuid():
 class Paragraphe(Document):
     
     text = Text(analyzer=analyzer('french'))
-    keywords = Keyword()
-    num = Keyword()
+    keywords = Keyword(analyzer=analyzer('french'))
+    num = Integer()
+    page = Integer()
     uid = Keyword()
 
     @staticmethod
@@ -28,7 +29,7 @@ class Paragraphe(Document):
             .search() \
             .query("match", text=query)
 
-        r  = [ p for p in s.scan() ]
+        r  = [p for p in s.execute()]
 
         return {"count":len(r), "hits": r}
 
@@ -58,28 +59,31 @@ def index(txt):
     idx.delete(ignore=404)
     Paragraphe.init()
     click.echo("Elasticsearch schema initialized")
-
     click.echo("parsing crepuscule texte")
-    import csv
+
     if txt is None:
         txt = "./crepuscule.txt"
+
+    secnum = 0
+    count = 0
+    text = ""
+    page = 1
+    keywords = []
+
     with open(txt) as f:
-        pcount = 0
-        count = 0
-        text = ""
-        page = 1
-        keywords = []
         for line in f.readlines():
             count = count + 1
-            if line.strip() == "*":
-                pcount = pcount + 1
-                index_paragraph(pcount, text, keywords)
-                text = ""
+            if line.strip()[0] == "*":
+                secnum += 1
+                index_paragraph(text, keywords, page, secnum)
+                text = line[1:]
             else:
                 text = text + line
 
+            page += line.count(PAGE_BREAK)
+
     if text != "":
-        index_paragraph(pcount +1 , text, keywords)
+        index_paragraph(secnum + 1, text, keywords)
 
 
 def index_paragraph(pcount, text, keywords):
