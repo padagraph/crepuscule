@@ -17,7 +17,7 @@
 ! https://calc.padagraph.io/crepuscule-medias 
 
 "!,",,,,,,,,,,,,
-"@Media: #label",%+Propriétaire,%+boss,%+actionnaires,%+investisseurs,%+salarié⋅es,+Pages,image,shape[square],size[0.5],Nom,+Autres_sources,
+"@Media: #label",%+Propriétaire,%+boss,%+actionnaires,%+investisseurs,%+salarié⋅es,+Pages,image,shape[square],size[0.5],Nom,+Autres_sources,site_officiel
 Mediapart,,,,,Mauduit,,https://www.mediapart.fr/images/social/800/mediapart.png,,,Mediapart,https://www.liberation.fr/checknews/2017/10/02/est-ce-que-xavier-niel-est-un-actionnaire-de-mediapart_1652506,
 Esprit,,,,,,,https://esprit.presse.fr/img/logo.png,,,Esprit,,
 Le_1,,,Hermand,,,,https://upload.wikimedia.org/wikipedia/fr/thumb/2/21/Le_1_logo.svg/langfr-100px-Le_1_logo.svg.png,,,"Le 1",,
@@ -41,7 +41,7 @@ BFMTV,NextRadioTV,,,,,49,,,,"BFM TV",https://www.monde-diplomatique.fr/cartes/PP
 LExpress,Altice,,,,,49,,,,L'Express,https://www.monde-diplomatique.fr/cartes/PPA#&gid=1&pid=1,
 Télérama,LML,,,,,49,,,,Télérama,https://www.monde-diplomatique.fr/cartes/PPA#&gid=1&pid=1,
 RadioFrance,,Veil,,,,49,,,,"Radio France",,
-Vanity_Fair,,,,,,49,,,,"Vanity Fair",,
+Vanity_Fair,,,,,,49,https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.news-people.fr%2Fimages%2Fpresse%2Fhd%2FVanity-Fair-53.jpg&f=1,,,"Vanity Fair",https://duckduckgo.com/?q=vanity+fair&iax=images&ia=images&iai=http%3A%2F%2Fwww.news-people.fr%2Fimages%2Fpresse%2Fhd%2FVanity-Fair-53.jpg,https://www.vanityfair.fr/?international
 Canal_Plus,Vivendi,,,,,49,,,,"Canal +",https://www.monde-diplomatique.fr/cartes/PPA#&gid=1&pid=1," "
 C8,Vivendi,,,,,49,,,,C8,https://www.monde-diplomatique.fr/cartes/PPA#&gid=1&pid=1,
 TF1,,,Bouygues,,,50,,,,TF1,https://www.monde-diplomatique.fr/cartes/PPA#&gid=1&pid=1,
@@ -293,10 +293,10 @@ ESSEC,,Blanquer(2013-2017),,ESSEC,
 
 ! https://calc.padagraph.io/crepuscule-evenements 
 
-"!,",,,,,,,
-@Evenements:#label,Lieu,Date,"%+Personnes impliquées",Pages,"Commentaire libre",shape[diamond],size[0.5]
-Inauguration_LV,Ritz,,"Arnault_B, Arnault_D, Niel",25,"directeurs de rédaction",,0.5
-Diner_d'état,,,"Trump, Arnault_B, Macron",34,,,
+"!,",,,,,,,,
+@Evenements:#label,Lieu,Date,"%+Personnes impliquées",Pages,"Commentaire libre",shape[diamond],size[0.5],image
+Inauguration_LV,Ritz,,"Arnault_B, Arnault_D, Niel",25,"directeurs de rédaction",,0.5,
+Diner_d'état,,,"Trump, Arnault_B, Macron",34,"* Assiettes dorées et amitié au luxueux dîner d’État réunissant Trump et Macron. Original https://www.ouest-france.fr/monde/etats-unis/donald-trump/en-images-assiettes-dorees-et-amitie-le-luxueux-diner-d-etat-reunissant-trump-et-macron-5721432O ; archive http://archive.today/rdfpe",,,https://media.ouest-france.fr/v1/pictures/5486a399cff0f7145f2d14ff366bc48b-en-images-les-fastes-du-diner-d-etat-reunissant-trump-et-macron_0.jpg
 
 
 ! https://calc.padagraph.io/crepuscule-judiciaire 
@@ -411,7 +411,7 @@ Drahi,Drahi,Patrick,,,,,,,,https://medias.liberation.fr/photo/887191-000_bm6cw.j
 Dreyfus,Dreyfus,Louis,,,,,,,,,42,,,,,,
 Emelien,Emelien,Ismaël,,,,LREM,,Ribault,,https://www.challenges.fr/assets/img/2017/04/30/images_list-r4x3w1000-5905e8aa573f9-ismae-l-emelien.jpg,,,,,,,
 Endeweld,Endeweld,Marc,,,,,,,,,,,,,,,
-Ernotte,Ernotte,Delphine,,,,,,,,https://pbs.twimg.com/profile_images/636518691472023552/eofDUBhm_400x400.jpg,,,,,,,
+Ernotte,Ernotte,Delphine,,,,,,,,https://pbs.twimg.com/profile_images/636518691472023552/eofDUBhm_400x400.jpg,,"Potrait dans le nouvel observateur  https://www.nouvelobs.com/presidentielle-2017/20170515.OBS9403/10-choses-a-savoir-sur-ismael-emelien-l-intrigant-stratege-de-macron.html",,,,,
 Fabius,Fabius,Laurent,,,,PS,,,,,,,,,,,
 Finchelstein,Finchelstein,Gilles,,,,Fondation_Jean-Jaurès,,,,https://static.ladepeche.fr/content/media/image/zoom/2016/03/09/201603091231-full.jpg,,,,,,,
 Gassier-Weill,Gassier-Weill,Catherine,,,,,Weill,,,http://www.yb-consulting.fr/wp/wp-content/uploads/2016/12/portrait3.png,,,,,,,
