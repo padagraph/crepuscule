@@ -8,7 +8,7 @@ flask-mail
 Flask-Markdown
 
 itsdangerous==1.1.0
-Jinja2==2.10
+Jinja2==2.11.3
 MarkupSafe==1.1.0
 python-dateutil==2.7.5
 six==1.12.0
